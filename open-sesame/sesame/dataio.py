@@ -70,6 +70,8 @@ def read_conll(conll_file, syn_type=None):
 
                 elements = []
                 continue
+            if l == "%":
+                continue
             elements.append(CoNLL09Element(l, read_depsyn))
         cf.close()
     sys.stderr.write("# examples in %s : %d in %d sents\n" % (conll_file, len(examples), next_ex))

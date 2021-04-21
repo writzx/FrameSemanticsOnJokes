@@ -344,6 +344,7 @@ def print_as_conll(gold_examples, predicted_target_dict):
             for target in sorted(pred):
                 result = gold.get_predicted_target_conll(target, pred[target][0]) + "\n"
                 conll_file.write(result)
+            conll_file.write("%\n")
         conll_file.close()
 
 

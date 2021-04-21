@@ -24,15 +24,34 @@ argid_model_filename = f"logs/{argid_model}/predicted-args.conll"
 frameid_adam_model_filename = f"logs/{frameid_adam_model}/predicted-frames.conll"
 
 def write_results(writer):
+    joke_frames = []
     frames = []
-    with open(argid_model_filename, newline='') as csvfile:
+    with open(targetid_model_filename, newline='') as targetfile, open(filename, newline='') as jokefile, open(argid_model_filename, newline='') as csvfile:
+        targetlines = [line.strip() for line in targetfile]
+        jokes = [line.strip() for line in jokefile]
         csvreader = csv.reader(csvfile, delimiter='\t', quotechar='|')
+        index_target = 0
+        joke_index = 0
         taged_text = {}
-        for row in csvreader:
+        for i, row in enumerate(csvreader):
+            index_target += 1
+            try:
+                if targetlines[index_target].strip() == "#":
+                    frames.append(taged_text)
+                    taged_text = {}
+                    joke_frames.append(frames)
+                    frames = []
+                    index_target += 1
+                    joke_index += 1
+                    continue
+            except IndexError:
+                pass
+
             if len(row) == 0:
                 frames.append(taged_text)
                 taged_text = {}
                 continue
+            
             tag = (row[-2] if row[-3] != "_" else (row[-1].split("-")[1] if "-" in row[-1] else row[-1])).lower().replace("_", " ")
             text = (row[3] if row[3].lower() != "unk" else row[1]).lower()
 
@@ -41,10 +60,13 @@ def write_results(writer):
             else:
                 taged_text[tag] = f"{text}"
 
-    for i in range(len(frames)):
-        frame = frames[i]
-        writer.writelines([f"FRAME ------------------------------\n"])
-        writer.writelines([f"{value} - {key}\n" for key, value in filter(lambda item: item[0] != "o", frame.items())])
+
+    for index, frames_temp in enumerate(joke_frames):
+        writer.writelines([f"\nJoke: {jokes[index]}\n--------------------------------------------------------------------------------------\n"])
+        for i, frame in enumerate(frames_temp):
+            writer.writelines([f"\nFRAME {i + 1} ------------------------------\n"])
+            writer.writelines([f"{value} - {key}\n" for key, value in frame.items() if key != "o"])
+        writer.writelines([f"\n--------------------------------------------------------------------------------------\n"])
 
 
 def call_sesame(command, model, file):
@@ -82,7 +104,3 @@ with open(resultfilename, 'w+') as writer:
     call_sesame("argid", argid_model, frameid_model_filename)
 
     write_results(writer)
-
-# call_sesame("targetid", frameid_adam_model, targetid_model_filename)
-# call_sesame("targetid", targetid_model, frameid_adam_model_filename)
-

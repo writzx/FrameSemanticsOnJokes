@@ -105,4 +105,6 @@ def parse_file(input_file, output_file):
 
     write_results(input_file, output_file)
 
-parse_file(filename, resultfilename)
+
+if __name__ == "__main__":
+    parse_file(filename, resultfilename)

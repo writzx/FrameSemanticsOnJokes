@@ -1,0 +1,3471 @@
+
+Joke: A family is at the dinner table. The son asks the father, âDad, how many kinds of boobs are there?â The father, surprised, answers, âWell, son, a woman goes through three phases. In her 20s, a womanâs breasts are like melons, round and firm. In her 30s and 40s, they are like pears, still nice, hanging a bit. After 50, they are like onions.â âOnions?â the son asks. âYes. You see them and they make you cry.â This infuriated his wife and daughter. The daughter asks, âMom, how many different kinds of willies are there?â The mother smiles and says, âWell, dear, a man goes through three phases also. In his 20s, his willy is like an oak tree, mighty and hard. In his 30s and 40s, itâs like a birch, flexible but reliable. After his 50s, itâs like a Christmas tree.â âA Christmas tree?â the daughter asks. âYes, dead from the root up and the balls are just for decoration.â
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+family - aggregate
+
+FRAME 2 ------------------------------
+dinner - social event
+
+FRAME 3 ------------------------------
+son - kinship
+
+FRAME 4 ------------------------------
+son - addressee
+ask - request
+the father , unk , how many kind of boobs be there ? unk the father , surprise , answer - message
+
+FRAME 5 ------------------------------
+father - appellations
+
+FRAME 6 ------------------------------
+many - quantified mass
+kind - individuals
+
+FRAME 7 ------------------------------
+kind - type
+of boobs - category
+
+FRAME 8 ------------------------------
+there - locative relation
+
+FRAME 9 ------------------------------
+father - appellations
+
+FRAME 10 ------------------------------
+the father - stimulus
+surprise - just found out
+
+FRAME 11 ------------------------------
+answer - resolve problem
+
+FRAME 12 ------------------------------
+son - kinship
+
+FRAME 13 ------------------------------
+woman - people
+
+FRAME 14 ------------------------------
+boobs be there ? unk the father , surprise , answer , unk , son , through three phase - item 2
+a woman - item 1
+go - compatibility
+
+FRAME 15 ------------------------------
+three - cardinal numbers
+phase - entity
+
+FRAME 16 ------------------------------
+three - phase
+phase - thermodynamic phase
+
+FRAME 17 ------------------------------
+breast - body parts
+
+FRAME 18 ------------------------------
+round - ammunition
+
+FRAME 19 ------------------------------
+and - descriptor
+firm - businesses
+
+FRAME 20 ------------------------------
+in - interior profile relation
+
+FRAME 21 ------------------------------
+pears , - state of affairs
+still - continued state of affairs
+
+FRAME 22 ------------------------------
+nice - stimulus focus
+
+FRAME 23 ------------------------------
+a bit . - event
+after - time vector
+
+FRAME 24 ------------------------------
+son - kinship
+
+FRAME 25 ------------------------------
+son unk - addressee
+ask - request
+
+FRAME 26 ------------------------------
+see - condition symptom relation
+them and they - medical condition
+
+FRAME 27 ------------------------------
+they you unk this infuriated his wife and daughter . the daughter ask , unk , how many different kind of - created entity
+make - creating
+
+FRAME 28 ------------------------------
+this infuriated his - partner 2
+wife - personal relationship
+and daughter . the daughter ask , unk , how many different kind of willies be there ? unk the - partner 1
+
+FRAME 29 ------------------------------
+daughter - kinship
+
+FRAME 30 ------------------------------
+daughter - kinship
+
+FRAME 31 ------------------------------
+daughter unk - addressee
+ask - request
+
+FRAME 32 ------------------------------
+many - quantified mass
+different kind of willies - individuals
+
+FRAME 33 ------------------------------
+different - similarity
+
+FRAME 34 ------------------------------
+kind - type
+
+FRAME 35 ------------------------------
+this infuriated his wife and daughter . the daughter ask , unk , how many different kind of willies - figure
+there - locative relation
+
+FRAME 36 ------------------------------
+mother - appellations
+
+FRAME 37 ------------------------------
+mother - conveyed emotion
+smile - facial expression
+
+FRAME 38 ------------------------------
+say - text creation
+unk , dear , a man go through three phase also . in his 20 , his willy be like an oak tree , mighty and hard . in his 30 and 40 , unk like a birch , flexible but reliable . after his 50 , unk like a christmas unk unk christmas tree ? unk the daughter ask - text
+
+FRAME 39 ------------------------------
+unk - stimulus
+dear - stimulus focus
+
+FRAME 40 ------------------------------
+man - people
+
+FRAME 41 ------------------------------
+a man - item 1
+go - compatibility
+through three phase - item 2
+
+FRAME 42 ------------------------------
+three - cardinal numbers
+phase - entity
+
+FRAME 43 ------------------------------
+phase - thermodynamic phase
+
+FRAME 44 ------------------------------
+in - interior profile relation
+
+FRAME 45 ------------------------------
+tree - plants
+
+FRAME 46 ------------------------------
+hard - difficulty
+
+FRAME 47 ------------------------------
+an oak tree , mighty and hard . - figure
+in - interior profile relation
+
+FRAME 48 ------------------------------
+reliable - trust
+
+FRAME 49 ------------------------------
+and 40 , unk like a birch , flexible but reliable . - event
+after - time vector
+
+FRAME 50 ------------------------------
+christmas unk unk christmas - characteristic
+tree - plants
+
+FRAME 51 ------------------------------
+daughter - kinship
+
+FRAME 52 ------------------------------
+the daughter - addressee
+ask - request
+
+FRAME 53 ------------------------------
+dead - dead or alive
+
+--------------------------------------------------------------------------------------
+
+Joke: A teacher is teaching a class and she sees that Johnny isn't paying attention, so she asks him, "If there are three ducks sitting on a fence, and you shoot one, how many are left?" Johnny says, "None." The teacher asks, "Why?" Johnny says, "Because the shot scared them all off." The teacher says, "No, two, but I like how you're thinking." Johnny asks the teacher, "If you see three women walking out of an ice cream parlor, one is licking her ice cream, one is sucking her ice cream, and one is biting her ice cream, which one is married?" The teacher says, "The one sucking her ice cream." Johnny says, "No, the one with the wedding ring, but I like how you're thinking!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+teacher - education teaching
+
+FRAME 2 ------------------------------
+a teacher - teacher
+teach - education teaching
+
+FRAME 3 ------------------------------
+class - aggregate
+
+FRAME 4 ------------------------------
+a class and she - patient
+see - condition symptom relation
+
+FRAME 5 ------------------------------
+johnny - buyer
+pay - commerce pay
+
+FRAME 6 ------------------------------
+attention - attention
+
+FRAME 7 ------------------------------
+she him - addressee
+ask - request
+
+FRAME 8 ------------------------------
+there - locative relation
+
+FRAME 9 ------------------------------
+three - cardinal numbers
+ducks - entity
+
+FRAME 10 ------------------------------
+sit - being located
+
+FRAME 11 ------------------------------
+shoot - hit target
+
+FRAME 12 ------------------------------
+one - cardinal numbers
+
+FRAME 13 ------------------------------
+many - quantified mass
+
+FRAME 14 ------------------------------
+many - recipient
+leave - giving
+
+FRAME 15 ------------------------------
+johnny - author
+say - text creation
+shot scar them all off . '' the teacher say , `` no , two , but i like how - text
+
+FRAME 16 ------------------------------
+teacher - education teaching
+
+FRAME 17 ------------------------------
+teacher - addressee
+ask - request
+
+FRAME 18 ------------------------------
+johnny , but i like how you 're think . '' johnny ask the teacher , `` if you see three - text
+say - text creation
+
+FRAME 19 ------------------------------
+shot - attempt
+
+FRAME 20 ------------------------------
+shot scar - body mark
+
+FRAME 21 ------------------------------
+teacher - education teaching
+
+FRAME 22 ------------------------------
+the teacher , `` if you see three woman walk out of an ice cream parlor , one be licking her ice cream , one be sucking her ice cream , and one be bite her ice cream , which one be - text
+say - text creation
+
+FRAME 23 ------------------------------
+two - cardinal numbers
+
+FRAME 24 ------------------------------
+but i - hedged content
+like - hedging
+
+FRAME 25 ------------------------------
+think - cogitation
+
+FRAME 26 ------------------------------
+johnny - addressee
+ask - request
+the teacher , `` if you see three woman walk out of an ice cream parlor , one be licking - message
+
+FRAME 27 ------------------------------
+teacher - education teaching
+
+FRAME 28 ------------------------------
+see - condition symptom relation
+three woman - influence
+
+FRAME 29 ------------------------------
+three - cardinal numbers
+
+FRAME 30 ------------------------------
+three - descriptor
+woman - people
+
+FRAME 31 ------------------------------
+walk - self motion
+out of an ice cream parlor - source
+
+FRAME 32 ------------------------------
+one - cardinal numbers
+
+FRAME 33 ------------------------------
+one - cardinal numbers
+
+FRAME 34 ------------------------------
+one - cardinal numbers
+
+FRAME 35 ------------------------------
+bite - measure by action
+
+FRAME 36 ------------------------------
+cream , and one be bite her ice cream , which one - partner 2
+marry - forming relationships
+
+FRAME 37 ------------------------------
+teacher - education teaching
+
+FRAME 38 ------------------------------
+the teacher , `` the one sucking her ice cream . '' johnny say , `` no , the one with the - text
+say - text creation
+
+FRAME 39 ------------------------------
+one - cardinal numbers
+
+FRAME 40 ------------------------------
+johnny - text
+say - text creation
+
+FRAME 41 ------------------------------
+one - cardinal numbers
+
+FRAME 42 ------------------------------
+wedding - forming relationships
+ring - partner 2
+
+FRAME 43 ------------------------------
+wedding - sound source
+ring - make noise
+
+FRAME 44 ------------------------------
+but i - hedged content
+like - hedging
+
+FRAME 45 ------------------------------
+think - cogitation
+
+--------------------------------------------------------------------------------------
+
+Joke: My friend thinks he is smart. He told me an onion is the only food that makes you cry, so I threw a coconut at his face.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+friend - personal relationship
+
+FRAME 2 ------------------------------
+my friend - cognizer
+think - cogitation
+
+FRAME 3 ------------------------------
+my friend think he he - entity
+smart - speed description
+
+FRAME 4 ------------------------------
+my friend think he be smart . he - speaker
+tell - speak on topic
+
+FRAME 5 ------------------------------
+only - sole instance
+
+FRAME 6 ------------------------------
+food - food
+
+FRAME 7 ------------------------------
+me an onion be the only food that - cause
+make - creating
+
+FRAME 8 ------------------------------
+the only food that make you - sound source
+cry - make noise
+
+FRAME 9 ------------------------------
+i - theme
+throw - cause motion
+
+--------------------------------------------------------------------------------------
+
+Joke: A boy is selling fish on a corner. To get his customers' attention, he is yelling, "Dam fish for sale! Get your dam fish here!" A pastor hears this and asks, "Why are you calling them 'dam fish.'" The boy responds, "Because I caught these fish at the local dam." The pastor buys a couple fish, takes them home to his wife, and asks her to cook the dam fish. The wife responds surprised, "I didn't know it was acceptable for a preacher to speak that way." He explains to her why they are dam fish. Later at the dinner table, he asks his son to pass the dam fish. He responds, "That's the spirit, Dad! Now pass the f*cking potatoes!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+boy - people by age
+
+FRAME 2 ------------------------------
+a boy - seller
+sell - commerce sell
+fish on a corner - buyer
+
+FRAME 3 ------------------------------
+a boy - hunter
+fish - hunting
+
+FRAME 4 ------------------------------
+a corner - trajector
+to - goal
+
+FRAME 5 ------------------------------
+get - intentional deception
+
+FRAME 6 ------------------------------
+customer ' - perceiver
+attention - attention
+
+FRAME 7 ------------------------------
+`` dam - hunter
+fish - hunting
+
+FRAME 8 ------------------------------
+`` dam fish - seller
+sale - commerce sell
+
+FRAME 9 ------------------------------
+fish - hunting
+
+FRAME 10 ------------------------------
+`` dam fish for sale ! get your dam fish - figure
+here - locative relation
+
+FRAME 11 ------------------------------
+pastor this and - phenomenon
+hear - perception experience
+
+FRAME 12 ------------------------------
+`` dam fish for sale ! get your dam fish here ! '' a pastor hear this and - message
+ask - request
+
+FRAME 13 ------------------------------
+call - referring by name
+them unk fish - name
+
+FRAME 14 ------------------------------
+fish - hunting
+
+FRAME 15 ------------------------------
+boy - people by age
+
+FRAME 16 ------------------------------
+the boy - speaker
+respond - communication response
+
+FRAME 17 ------------------------------
+i - fire
+catch - catching fire
+
+FRAME 18 ------------------------------
+fish - hunting
+
+FRAME 19 ------------------------------
+local - political locales
+dam - container possessor
+
+FRAME 20 ------------------------------
+the pastor - seller
+buy - commerce buy
+a couple fish , take them home to his wife , and ask her to cook the dam fish . - goods
+
+FRAME 21 ------------------------------
+couple - cardinal numbers
+fish - unit
+
+FRAME 22 ------------------------------
+fish - hunting
+
+FRAME 23 ------------------------------
+a couple fish - participants
+take - sex
+
+FRAME 24 ------------------------------
+home - spatial co-location
+
+FRAME 25 ------------------------------
+wife - personal relationship
+
+FRAME 26 ------------------------------
+fish at the local dam . '' the pastor buy a couple fish , take them home to his wife - message
+ask - request
+her - addressee
+
+FRAME 27 ------------------------------
+her - entity
+cook - absorb heat
+
+FRAME 28 ------------------------------
+fish - hunting
+
+FRAME 29 ------------------------------
+the dam fish - partner 2
+wife - personal relationship
+
+FRAME 30 ------------------------------
+the wife - speaker
+respond - communication response
+he explain to her why they be dam fish . later at the dinner table , he ask his son - message
+
+FRAME 31 ------------------------------
+the wife - experiencer
+surprised - just found out
+
+FRAME 32 ------------------------------
+`` i - participants
+do - sex
+
+FRAME 33 ------------------------------
+know - certainty
+
+FRAME 34 ------------------------------
+a preacher - author
+speak - text creation
+
+FRAME 35 ------------------------------
+it - agent
+way - conduct
+
+FRAME 36 ------------------------------
+he - fact
+explain - explaining the facts
+
+FRAME 37 ------------------------------
+fish - hunting
+
+FRAME 38 ------------------------------
+later - time vector
+at the dinner table , he ask his son to pass the dam fish . he respond , `` that - distance
+
+FRAME 39 ------------------------------
+dinner - social event
+
+FRAME 40 ------------------------------
+it be acceptable for a preacher to speak that way . '' he explain to her why they be dam - message
+he - addressee
+ask - request
+
+FRAME 41 ------------------------------
+son - kinship
+
+FRAME 42 ------------------------------
+son - donor
+pass - giving
+the dam fish - theme
+
+FRAME 43 ------------------------------
+fish - hunting
+
+FRAME 44 ------------------------------
+he - speaker
+respond - communication response
+
+FRAME 45 ------------------------------
+, `` - gradable attribute
+that - degree
+
+FRAME 46 ------------------------------
+now - temporal collocation
+the f * unk potatoes ! '' - trajector event
+
+FRAME 47 ------------------------------
+fish `` that 's the spirit , dad - donor
+! - time
+now - manner
+pass - giving
+the f * unk potatoes - theme
+
+--------------------------------------------------------------------------------------
+
+Joke: A teacher asked her students to use the word "beans" in a sentence. "My father grows beans," said one girl. "My mother cooks beans," said a boy. A third student spoke up, "We are all human beans."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+teacher - education teaching
+
+FRAME 2 ------------------------------
+a teacher - message
+ask - request
+
+FRAME 3 ------------------------------
+student - education teaching
+
+FRAME 4 ------------------------------
+use - using resource
+the word `` bean - resource
+
+FRAME 5 ------------------------------
+word - encoding
+
+FRAME 6 ------------------------------
+the word `` bean - figure
+in - interior profile relation
+
+FRAME 7 ------------------------------
+a sentence . `` - title
+father - appellations
+
+FRAME 8 ------------------------------
+grows bean - author
+say - text creation
+
+FRAME 9 ------------------------------
+one - cardinal numbers
+
+FRAME 10 ------------------------------
+girl - people
+
+FRAME 11 ------------------------------
+mother - appellations
+
+FRAME 12 ------------------------------
+mother bean - heat source
+cook - absorb heat
+
+FRAME 13 ------------------------------
+grows bean , '' say one girl . `` my mother cook bean - author
+say - text creation
+
+FRAME 14 ------------------------------
+boy - people by age
+
+FRAME 15 ------------------------------
+third - part whole
+student - whole
+
+FRAME 16 ------------------------------
+student - education teaching
+
+FRAME 17 ------------------------------
+a third student - author
+speak - text creation
+
+FRAME 18 ------------------------------
+`` we - organism
+human - biological entity
+
+--------------------------------------------------------------------------------------
+
+Joke: A boy asks his father, "Dad, are bugs good to eat?" "That's disgusting. Don't talk about things like that over dinner," the dad replies. After dinner the father asks, "Now, son, what did you want to ask me?" "Oh, nothing," the boy says. "There was a bug in your soup, but now itâs gone."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+boy - people by age
+
+FRAME 2 ------------------------------
+a boy - addressee
+ask - request
+
+FRAME 3 ------------------------------
+father - appellations
+
+FRAME 4 ------------------------------
+a boy ask his father , `` dad , - entity
+good - usefulness
+
+FRAME 5 ------------------------------
+eat - ingestion
+
+FRAME 6 ------------------------------
+`` - gradable attribute
+that - degree
+
+FRAME 7 ------------------------------
+. - interlocutor 2
+talk - discussion
+
+FRAME 8 ------------------------------
+thing - entity
+
+FRAME 9 ------------------------------
+over - distributed position
+
+FRAME 10 ------------------------------
+dinner - social event
+
+FRAME 11 ------------------------------
+reply - communication response
+
+FRAME 12 ------------------------------
+after - time vector
+
+FRAME 13 ------------------------------
+dinner - social event
+
+FRAME 14 ------------------------------
+father - appellations
+
+FRAME 15 ------------------------------
+father - addressee
+ask - request
+
+FRAME 16 ------------------------------
+father ask , `` - trajector event
+now - temporal collocation
+
+FRAME 17 ------------------------------
+`` - ego
+son - kinship
+
+FRAME 18 ------------------------------
+son , what - participants
+do - sex
+you - participant 2
+
+FRAME 19 ------------------------------
+want - possession
+
+FRAME 20 ------------------------------
+ask - request
+
+FRAME 21 ------------------------------
+boy - people by age
+
+FRAME 22 ------------------------------
+the boy - author
+say - text creation
+
+FRAME 23 ------------------------------
+there - locative relation
+
+FRAME 24 ------------------------------
+soup - food
+
+--------------------------------------------------------------------------------------
+
+Joke: A man kills a deer and takes it home to cook for dinner. Both he and his wife decide that they won't tell the kids what kind of meat it is, but will give them a clue and let them guess. The dad said, "Well it's what Mommy calls me sometimes." The little girl screamed to her brother, "Don't eat it. Its an asshole!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+man - people
+
+FRAME 2 ------------------------------
+a man - process
+kill - process stop
+
+FRAME 3 ------------------------------
+a man - participants
+take - sex
+it home - participant 2
+
+FRAME 4 ------------------------------
+home - spatial co-location
+
+FRAME 5 ------------------------------
+cook - absorb heat
+
+FRAME 6 ------------------------------
+dinner - social event
+
+FRAME 7 ------------------------------
+both - quantified mass
+he and his wife decide that they wo n't tell the kid what kind of meat it be , but - quantity
+
+FRAME 8 ------------------------------
+he and his - partner 2
+wife - personal relationship
+
+FRAME 9 ------------------------------
+wife - cognizer
+decide - deciding
+that they - time
+
+FRAME 10 ------------------------------
+tell - speak on topic
+the kid what kind of meat it be , but will give them a clue and let them guess . - topic
+
+FRAME 11 ------------------------------
+kid - people by age
+
+FRAME 12 ------------------------------
+what - type property
+kind - type
+of meat it - category
+
+FRAME 13 ------------------------------
+give - giving
+them - recipient
+
+FRAME 14 ------------------------------
+a clue and let them the dad say , `` - content
+guess - coming to believe
+
+FRAME 15 ------------------------------
+the dad - author
+say - text creation
+
+FRAME 16 ------------------------------
+well - desirability
+
+FRAME 17 ------------------------------
+call - referring by name
+
+FRAME 18 ------------------------------
+sometimes - frequency
+
+FRAME 19 ------------------------------
+girl - people
+
+FRAME 20 ------------------------------
+the little girl - sound source
+scream - make noise
+
+FRAME 21 ------------------------------
+brother - appellations
+
+FRAME 22 ------------------------------
+the little girl scream to her brother , `` - ingestor
+eat - ingestion
+
+--------------------------------------------------------------------------------------
+
+Joke: What do you call stoned Mexicans? Baked beans.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+call - referring by name
+stone mexicans ? baked bean - name
+
+FRAME 2 ------------------------------
+call - degree
+stone - emptying
+
+--------------------------------------------------------------------------------------
+
+Joke: Why did the can crusher quit his job? Because it was soda pressing.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+why the - participant 2
+do - sex
+
+FRAME 2 ------------------------------
+can - capability
+
+FRAME 3 ------------------------------
+job - being employed
+
+--------------------------------------------------------------------------------------
+
+Joke: What do you call a baptized Mexican? Bean dip.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+call - referring by name
+
+--------------------------------------------------------------------------------------
+
+Joke: Why do hamburgers go to the gym To get better buns!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+why hamburgers - participant 2
+do - sex
+
+FRAME 2 ------------------------------
+why do hamburgers to the gym to get better buns - item 2
+go - compatibility
+
+FRAME 3 ------------------------------
+get - intentional deception
+better buns - victim
+
+FRAME 4 ------------------------------
+better - required event
+buns - required situation
+
+--------------------------------------------------------------------------------------
+
+Joke: How much room is needed for fungi to grow? As mushroom as possible
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+much - proportional quantity
+
+FRAME 2 ------------------------------
+room - residence
+
+FRAME 3 ------------------------------
+need - needing
+
+FRAME 4 ------------------------------
+grow - expansion
+
+FRAME 5 ------------------------------
+possible - likelihood
+
+--------------------------------------------------------------------------------------
+
+Joke: Yo mama so fat the bears have to hide their food from her when she goes camping.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+yo mama - agent
+bear - bringing
+
+FRAME 2 ------------------------------
+yo mama so fat the bear - agent
+hide - hiding objects
+
+FRAME 3 ------------------------------
+food - food
+
+FRAME 4 ------------------------------
+she - resident
+camp - residence
+
+--------------------------------------------------------------------------------------
+
+Joke: If you have 13 apples in one hand and 10 oranges in the other, what do you have? Big hands.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+have - possession
+
+FRAME 2 ------------------------------
+13 apples - figure
+in - interior profile relation
+
+FRAME 3 ------------------------------
+one - cardinal numbers
+
+FRAME 4 ------------------------------
+13 apples - recipient
+hand - giving
+
+FRAME 5 ------------------------------
+other - increment
+
+FRAME 6 ------------------------------
+have - possession
+
+FRAME 7 ------------------------------
+big - trendiness
+hand - behavior
+
+FRAME 8 ------------------------------
+big - donor
+hand - giving
+
+--------------------------------------------------------------------------------------
+
+Joke: Your Halloween costume came in the mail today. I opened it. It was a rooster mask and a bag of lollipops. Going as a c*ck sucker again!?
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+your halloween costume - theme
+come - arriving
+
+FRAME 2 ------------------------------
+mail - armor
+
+FRAME 3 ------------------------------
+today - temporal collocation
+
+FRAME 4 ------------------------------
+open - secrecy status
+
+FRAME 5 ------------------------------
+mask - hiding objects
+
+--------------------------------------------------------------------------------------
+
+Joke: An Italian mother says, "If you don't eat all the food on this plate, I'll kill you." A Jewish mother says, "If you don't eat all the food on this plate, I'll kill myself."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+italian - people by origin
+
+FRAME 2 ------------------------------
+mother - appellations
+
+FRAME 3 ------------------------------
+an italian mother , `` if you do n't eat all the food on this plate , i 'll kill you . '' a jewish mother say , `` if you do n't eat all the food on this plate , i 'll - text
+say - text creation
+
+FRAME 4 ------------------------------
+you - participants
+do - sex
+
+FRAME 5 ------------------------------
+eat - ingestion
+
+FRAME 6 ------------------------------
+all - quantified mass
+
+FRAME 7 ------------------------------
+food - food
+
+FRAME 8 ------------------------------
+plate - armor
+
+FRAME 9 ------------------------------
+this plate , i - process
+kill - process stop
+
+FRAME 10 ------------------------------
+jewish - type
+mother - appellations
+
+FRAME 11 ------------------------------
+a jewish mother - text
+say - text creation
+
+FRAME 12 ------------------------------
+`` if you - participants
+do - sex
+
+FRAME 13 ------------------------------
+eat - ingestion
+
+FRAME 14 ------------------------------
+all - quantified mass
+
+FRAME 15 ------------------------------
+food - food
+
+FRAME 16 ------------------------------
+plate , i - process
+kill - process stop
+
+--------------------------------------------------------------------------------------
+
+Joke: Scientists have discovered a food that diminishes a woman's sex drive by 90%. It's called a wedding cake.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+scientists have - possession
+
+FRAME 2 ------------------------------
+scientists - cognizer
+discover - becoming aware
+
+FRAME 3 ------------------------------
+food - food
+
+FRAME 4 ------------------------------
+a food that - cause
+diminish - cause change of position on a scale
+
+FRAME 5 ------------------------------
+woman - people
+
+FRAME 6 ------------------------------
+drive - operate vehicle
+
+FRAME 7 ------------------------------
+call - referring by name
+
+--------------------------------------------------------------------------------------
+
+Joke: Why do the French eat snails? They don't like fast food.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+why the french eat snails ? they - participant 2
+do - sex
+
+FRAME 2 ------------------------------
+eat - ingestion
+
+FRAME 3 ------------------------------
+the french eat snails ? they - hedged content
+like - hedging
+
+FRAME 4 ------------------------------
+food - food
+
+--------------------------------------------------------------------------------------
+
+Joke: What do cats eat for breakfast? Mice Krispies.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+what - participant 2
+do - sex
+cat - participants
+
+FRAME 2 ------------------------------
+cat - animals
+
+FRAME 3 ------------------------------
+eat - ingestion
+for breakfast ? mice krispies - ingestibles
+
+--------------------------------------------------------------------------------------
+
+Joke: Yo momma so fat her favorite food is seconds.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+food - food
+
+FRAME 2 ------------------------------
+second - calendric unit
+
+--------------------------------------------------------------------------------------
+
+Joke: How come oysters never donate to charity? Because they are shellfish.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+come - arriving
+oysters - theme
+
+FRAME 2 ------------------------------
+how come oysters - event
+never - frequency
+
+FRAME 3 ------------------------------
+how come oysters - theme
+donate - giving
+
+FRAME 4 ------------------------------
+charity - giving
+
+--------------------------------------------------------------------------------------
+
+Joke: You've got your head so far up your ass you can chew your food twice.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+you - deceiver
+get - intentional deception
+
+FRAME 2 ------------------------------
+head - body parts
+
+FRAME 3 ------------------------------
+far - gradable proximity
+
+FRAME 4 ------------------------------
+your ass you - entity
+can - capability
+
+FRAME 5 ------------------------------
+you - grinder
+chew - grinding
+your food - patient
+twice - goal
+
+FRAME 6 ------------------------------
+food - food
+
+--------------------------------------------------------------------------------------
+
+Joke: What do you call a sad coffee? Depresso.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+call - referring by name
+a sad coffee ? unk . - name
+
+FRAME 2 ------------------------------
+sad - stimulus focus
+
+FRAME 3 ------------------------------
+coffee - food
+
+--------------------------------------------------------------------------------------
+
+Joke: A panda walks into a bar, sits down, and orders a sandwich. He eats, pulls out a gun, and shoots the waiter dead. As the panda stands up to go, the bartender shouts, "Hey! Where are you going? You just shot my waiter and you didn't pay for the food!" The panda yells back, "Hey man, I'm a panda. Look it up!" The bartender opens his dictionary to panda, "A tree climbing mammal of Asian origin, characterized by distinct black and white coloring. Eats, shoots, and leaves."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+a panda - self mover
+walk - self motion
+into a bar , - source
+
+FRAME 2 ------------------------------
+a bar , - theme
+sit - being located
+
+FRAME 3 ------------------------------
+order - bail decision
+
+FRAME 4 ------------------------------
+he - ingestor
+eat - ingestion
+
+FRAME 5 ------------------------------
+, - substance
+pull - ingest substance
+
+FRAME 6 ------------------------------
+out - sleep
+a gun - sleeper
+
+FRAME 7 ------------------------------
+gun - weapon
+
+FRAME 8 ------------------------------
+a gun - agent
+shoot - hit target
+the waiter dead . as the panda - target
+
+FRAME 9 ------------------------------
+dead - dead or alive
+
+FRAME 10 ------------------------------
+the panda - theme
+stand - being located
+
+FRAME 11 ------------------------------
+a gun , and shoot the waiter dead . as the panda - item 1
+go - compatibility
+
+FRAME 12 ------------------------------
+go - compatibility
+
+FRAME 13 ------------------------------
+shoot - hit target
+
+FRAME 14 ------------------------------
+my waiter and you - participants
+do - sex
+
+FRAME 15 ------------------------------
+pay - commerce pay
+
+FRAME 16 ------------------------------
+food - food
+
+FRAME 17 ------------------------------
+man - people
+
+FRAME 18 ------------------------------
+a panda it - expression
+look - facial expression
+
+FRAME 19 ------------------------------
+open - secrecy status
+
+FRAME 20 ------------------------------
+tree - plants
+
+FRAME 21 ------------------------------
+asian origin - origin
+
+FRAME 22 ------------------------------
+asian origin - patient
+characterize - condition symptom relation
+
+FRAME 23 ------------------------------
+distinct - distinctiveness
+
+FRAME 24 ------------------------------
+white - race descriptor
+
+--------------------------------------------------------------------------------------
+
+Joke: What kind of key opens a banana? A monkey.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+kind - type
+
+FRAME 2 ------------------------------
+key - natural features
+
+--------------------------------------------------------------------------------------
+
+Joke: Itâs a sunny morning in the Big Forest and the Bear family is just waking up. Baby Bear goes downstairs and sits in his small chair at the table. He looks into his small bowl. It is empty! "Who's been eating my porridge?" he squeaks. Father Bear arrives at the table and sits in his big chair. He looks into his big bowl. It is also empty! "Who's been eating my porridge?" he roars. Mother Bear sticks her head out the kitchen door and yells, "For Pete's sake, how many times do we have to go through this? It was Mother Bear who go up first. It was Mother Bear who woke everybody else in the house up. It was Mother Bear who unloaded the dishwasher from last night and put everything away. It was Mother Bear who went out into the cold early morning air to fetch the newspaper. It was Mother Bear who set the table. It was Mother Bear who put the cat out, cleaned the litter box and filled the cat's water and food dish. And now that you've decided to come down stairs and grace me with your presence, listen good because I'm only going to say this one more time: I haven't made the f*cking porridge yet!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+sunny - relative time
+morning - calendric unit
+
+FRAME 2 ------------------------------
+big - trendiness
+and the bear family - evaluee
+
+FRAME 3 ------------------------------
+big - container possessor
+forest - biological area
+
+FRAME 4 ------------------------------
+bear - domain
+family - aggregate
+
+FRAME 5 ------------------------------
+big forest and the bear family - entity
+wake - leaving traces
+
+FRAME 6 ------------------------------
+unk a sunny morning in the big forest and the bear family be just wake up . - item 2
+baby bear - item 1
+go - compatibility
+
+FRAME 7 ------------------------------
+in - interior profile relation
+
+FRAME 8 ------------------------------
+small - size
+
+FRAME 9 ------------------------------
+he - expression
+look - facial expression
+
+FRAME 10 ------------------------------
+small - size
+
+FRAME 11 ------------------------------
+empty - fullness
+
+FRAME 12 ------------------------------
+empty ! `` who - ingestor
+eat - ingestion
+
+FRAME 13 ------------------------------
+father bear - theme
+arrive - arriving
+
+FRAME 14 ------------------------------
+he - expression
+look - facial expression
+into his big bowl - intended perceiver
+
+FRAME 15 ------------------------------
+empty - fullness
+
+FRAME 16 ------------------------------
+eat - ingestion
+
+FRAME 17 ------------------------------
+he - sound source
+roar - make noise
+
+FRAME 18 ------------------------------
+bear - possessor
+head - body parts
+
+FRAME 19 ------------------------------
+kitchen - building subparts
+
+FRAME 20 ------------------------------
+door - vehicle subpart
+
+FRAME 21 ------------------------------
+many - quantified mass
+time - individuals
+
+FRAME 22 ------------------------------
+many - instance prop
+time - event instance
+
+FRAME 23 ------------------------------
+many time - participants
+do - sex
+we - participant 2
+
+FRAME 24 ------------------------------
+have - possession
+
+FRAME 25 ------------------------------
+we - item 1
+go - compatibility
+through this ? it - item 2
+
+FRAME 26 ------------------------------
+and yells - item 2
+mother bear - item 1
+go - compatibility
+
+FRAME 27 ------------------------------
+and yells , `` for pete 's sake , how many time do we have to go through this ? it be mother bear who bear who unloaded the dishwasher from last night and put everything away . it be mother bear who go out into the cold early morning air to fetch the newspaper . it be mother bear who set the table . it be mother bear who put the cat out , cleaned the litter box and fill the cat 's water and food dish . and now that you 've decide to come down stair and grace me with your presence - experience
+first - first experience
+
+FRAME 28 ------------------------------
+mother bear who everybody - location
+wake - leaving traces
+
+FRAME 29 ------------------------------
+it be mother bear who go up first . it be mother bear who wake everybody else - figure
+in - interior profile relation
+the house - ground
+
+FRAME 30 ------------------------------
+house - containing
+
+FRAME 31 ------------------------------
+last - ordinal numbers
+night - item
+
+FRAME 32 ------------------------------
+last - relative time
+night - calendric unit
+
+FRAME 33 ------------------------------
+it be mother bear who go up first . it be mother bear who wake everybody else in the house the dishwasher from last night and everything away . it be mother bear who go out into the cold early morning air to fetch the newspaper - message
+put - encoding
+
+FRAME 34 ------------------------------
+mother bear - item 1
+go - compatibility
+
+FRAME 35 ------------------------------
+mother bear who - sleeper
+out - sleep
+
+FRAME 36 ------------------------------
+mother bear who - entity
+cold - temperature
+
+FRAME 37 ------------------------------
+early - temporal collocation
+morning - trajector period
+
+FRAME 38 ------------------------------
+cold early - relative time
+morning - calendric unit
+
+FRAME 39 ------------------------------
+newspaper - text
+
+FRAME 40 ------------------------------
+mother bear - accused
+set - bail decision
+
+FRAME 41 ------------------------------
+mother bear who go out into the cold early morning air to fetch the newspaper . it be mother bear bear who the cat out , cleaned the litter box and fill the cat 's water and food dish . and now - message
+put - encoding
+
+FRAME 42 ------------------------------
+cat - animals
+
+FRAME 43 ------------------------------
+litter - distributed position
+box and - location
+
+FRAME 44 ------------------------------
+box - placing
+
+FRAME 45 ------------------------------
+the litter box and - cause
+fill - filling
+the cat 's water and food dish - theme
+
+FRAME 46 ------------------------------
+cat - animals
+
+FRAME 47 ------------------------------
+food - food
+
+FRAME 48 ------------------------------
+dish - containers
+
+FRAME 49 ------------------------------
+now - temporal collocation
+
+FRAME 50 ------------------------------
+decide - deciding
+
+FRAME 51 ------------------------------
+come - arriving
+
+FRAME 52 ------------------------------
+presence - presence
+
+FRAME 53 ------------------------------
+presence , - manner
+listen - perception active
+good because i - body part
+
+FRAME 54 ------------------------------
+good - usefulness
+because i - purpose
+
+FRAME 55 ------------------------------
+because - causation
+i - effect
+
+FRAME 56 ------------------------------
+go - compatibility
+
+FRAME 57 ------------------------------
+say - text creation
+
+FRAME 58 ------------------------------
+one - cardinal numbers
+
+FRAME 59 ------------------------------
+one - class
+more - increment
+
+FRAME 60 ------------------------------
+make - creating
+the f * - created entity
+
+--------------------------------------------------------------------------------------
+
+Joke: A fat man goes into a fast food restaurant and orders his food. The cashier says that it will be a minute or two for his food. Finally his food is ready. The cashier hands the food to the fat guy and tells him, "Sorry about your weight."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+man - people
+
+FRAME 2 ------------------------------
+a fat man - item 1
+go - compatibility
+
+FRAME 3 ------------------------------
+fast - rate description
+
+FRAME 4 ------------------------------
+food - food
+
+FRAME 5 ------------------------------
+restaurant - locale by use
+
+FRAME 6 ------------------------------
+order - bail decision
+
+FRAME 7 ------------------------------
+food - food
+
+FRAME 8 ------------------------------
+the cashier - author
+say - text creation
+
+FRAME 9 ------------------------------
+minute - calendric unit
+
+FRAME 10 ------------------------------
+two - cardinal numbers
+
+FRAME 11 ------------------------------
+food - food
+
+FRAME 12 ------------------------------
+food - food
+
+FRAME 13 ------------------------------
+ready - activity ready state
+
+FRAME 14 ------------------------------
+the cashier - recipient
+hand - giving
+the food - theme
+
+FRAME 15 ------------------------------
+food - food
+
+FRAME 16 ------------------------------
+tell - speak on topic
+
+--------------------------------------------------------------------------------------
+
+Joke: A lot of people cry when they cut an onion. The trick is not to form an emotional bond.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+lot - destiny
+
+FRAME 2 ------------------------------
+people - colonization
+
+FRAME 3 ------------------------------
+a lot of people - sound source
+cry - make noise
+
+FRAME 4 ------------------------------
+a lot of people cry when they - agent
+cut - cause change of position on a scale
+
+FRAME 5 ------------------------------
+form - creating
+
+FRAME 6 ------------------------------
+bond - bail decision
+
+--------------------------------------------------------------------------------------
+
+Joke: What does a skeleton order at a restaurant? Spare ribs!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+what - participant 2
+do - sex
+
+FRAME 2 ------------------------------
+order - bail decision
+at a restaurant ? spare ribs - place
+
+FRAME 3 ------------------------------
+restaurant - locale by use
+
+--------------------------------------------------------------------------------------
+
+Joke: What's a shark's favorite sandwich? Peanut butter and jellyfish!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+every - frequency
+ten year - interval
+
+FRAME 2 ------------------------------
+ten - cardinal numbers
+year - entity
+
+FRAME 3 ------------------------------
+ten - count
+year - calendric unit
+
+FRAME 4 ------------------------------
+every ten year , the monks - figure
+in - interior profile relation
+
+FRAME 5 ------------------------------
+monastery - buildings
+
+FRAME 6 ------------------------------
+allow - prevent or allow possession
+
+FRAME 7 ------------------------------
+break - breaking apart
+
+FRAME 8 ------------------------------
+break their - time
+vow - commitment
+
+FRAME 9 ------------------------------
+silence - becoming silent
+
+FRAME 10 ------------------------------
+silence - author
+speak - text creation
+
+FRAME 11 ------------------------------
+two - cardinal numbers
+word - entity
+
+FRAME 12 ------------------------------
+word - encoding
+
+FRAME 13 ------------------------------
+word . year - unit
+ten - cardinal numbers
+
+FRAME 14 ------------------------------
+ten - relative time
+year - calendric unit
+
+FRAME 15 ------------------------------
+word . ten year - item 2
+go - compatibility
+
+FRAME 16 ------------------------------
+one - cardinal numbers
+
+FRAME 17 ------------------------------
+word . ten year go by and unk one unk unk unk unk the big day , a decade later . he give the head monk a long stare and - experience
+first - first experience
+
+FRAME 18 ------------------------------
+chance - daring
+
+FRAME 19 ------------------------------
+he - cognizer
+think - cogitation
+
+FRAME 20 ------------------------------
+second - calendric unit
+
+FRAME 21 ------------------------------
+say - text creation
+, unk unk ten year later , he say , unk unk unk the big day , a decade later - text
+
+FRAME 22 ------------------------------
+unk unk year - unit
+ten - cardinal numbers
+
+FRAME 23 ------------------------------
+unk unk - count
+ten - relative time
+year - calendric unit
+
+FRAME 24 ------------------------------
+, unk unk ten year monk a long stare and say , unk unk unk not surprise , unk the head monk say . unk - event
+later - time vector
+
+FRAME 25 ------------------------------
+he - author
+say - text creation
+stare and say , unk unk unk not surprise , unk the head monk say . unk be complaining ever - text
+
+FRAME 26 ------------------------------
+big - count
+day - calendric unit
+
+FRAME 27 ------------------------------
+decade - calendric unit
+
+FRAME 28 ------------------------------
+later - time vector
+. he give the head monk a long stare and say , unk unk unk not surprise , unk the - event
+
+FRAME 29 ------------------------------
+. - time
+he - donor
+give - giving
+the head - theme
+
+FRAME 30 ------------------------------
+head - body parts
+
+FRAME 31 ------------------------------
+long - duration description
+
+FRAME 32 ------------------------------
+stare - perception active
+
+FRAME 33 ------------------------------
+a long stare and - author
+say - text creation
+, unk unk unk not surprise , unk the head monk say . unk be complaining ever since you get - text
+
+FRAME 34 ------------------------------
+unk unk unk - stimulus
+surprise - just found out
+
+FRAME 35 ------------------------------
+head - body parts
+
+FRAME 36 ------------------------------
+the head monk - text
+say - text creation
+
+FRAME 37 ------------------------------
+get - intentional deception
+unk - victim
+
+FRAME 38 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Every ten years, the monks in the monastery are allowed to break their vow of silence to speak two words. Ten years go by and itâs one monkâs first chance. He thinks for a second before saying, âFood bad.â Ten years later, he says, âBed hard.â Itâs the big day, a decade later. He gives the head monk a long stare and says, âI quit.â âIâm not surprised,â the head monk says. âYouâve been complaining ever since you got here.â
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+the melons - deceiver
+get - intentional deception
+
+FRAME 2 ------------------------------
+the melons - partner 1
+marry - forming relationships
+
+FRAME 3 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Why didnât the melons get married? Because they cantaloupe.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+the apple - participant 2
+
+FRAME 2 ------------------------------
+the apple - impactor
+run - impact
+
+FRAME 3 ------------------------------
+banana - vehicle
+split - quitting a place
+
+FRAME 4 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Why did the apple run away? Because the banana split!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+
+FRAME 2 ------------------------------
+two friend - entity
+old - age
+
+FRAME 3 ------------------------------
+friend - personal relationship
+
+FRAME 4 ------------------------------
+two old friend - agent
+cross - body movement
+
+FRAME 5 ------------------------------
+path - roadways
+
+FRAME 6 ------------------------------
+see - condition symptom relation
+one another for almost a decade . unk : `` what be you do these day ? '' sparsh : - medical condition
+
+FRAME 7 ------------------------------
+one - cardinal numbers
+
+FRAME 8 ------------------------------
+another - increment
+
+FRAME 9 ------------------------------
+almost - proportional quantity
+a decade - mass
+
+FRAME 10 ------------------------------
+decade - calendric unit
+
+FRAME 11 ------------------------------
+you - participant 1
+do - sex
+these day - participant 2
+
+FRAME 12 ------------------------------
+day - calendric unit
+
+FRAME 13 ------------------------------
+doctor - appellations
+
+FRAME 14 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Two old friends crossed paths after not seeing one another for almost a decade. Utkarsh: "What are you doing these days?" Sparsh: "PHD." Utkarsh: "Wow! You're a doctor!" Sparsh: "No, Pizza Home Delivery."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+can - capability
+
+FRAME 2 ------------------------------
+drop - cause change of position on a scale
+a raw egg - agent
+
+FRAME 3 ------------------------------
+raw - degree of processing
+egg - material
+
+FRAME 4 ------------------------------
+floor - experiencer obj
+
+FRAME 5 ------------------------------
+crack - expertise
+
+FRAME 6 ------------------------------
+way - conduct
+
+FRAME 7 ------------------------------
+any way you - owner
+want - possession
+
+FRAME 8 ------------------------------
+, - time
+floor - experiencer obj
+
+FRAME 9 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: How can you drop a raw egg onto a concrete floor without cracking it? Any way you want, concrete floors are very hard to crack.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+
+FRAME 2 ------------------------------
+turn - undergo change
+
+FRAME 3 ------------------------------
+white - race descriptor
+
+FRAME 4 ------------------------------
+light - level of light
+
+FRAME 5 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: How do you turn white chocolate into dark chocolate? Turn off the light.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+
+FRAME 2 ------------------------------
+two - cardinal numbers
+cannibals - entity
+
+FRAME 3 ------------------------------
+two cannibals who - cause
+capture - taking captive
+
+FRAME 4 ------------------------------
+man - people
+
+FRAME 5 ------------------------------
+a man . they - cognizer
+decide - deciding
+
+FRAME 6 ------------------------------
+fair - social event
+if they - place
+
+FRAME 7 ------------------------------
+they - fire
+start - catching fire
+
+FRAME 8 ------------------------------
+be fair if they - ingestor
+eat - ingestion
+from opposite end - source
+
+FRAME 9 ------------------------------
+opposite - non-gradable proximity
+end - ground
+
+FRAME 10 ------------------------------
+end - cause to end
+
+FRAME 11 ------------------------------
+opposite end . - event
+after - time vector
+
+FRAME 12 ------------------------------
+few - quantified mass
+minute - individuals
+
+FRAME 13 ------------------------------
+minute - calendric unit
+
+FRAME 14 ------------------------------
+one - cardinal numbers
+
+FRAME 15 ------------------------------
+the one who - fire
+start - catching fire
+at the head - time
+
+FRAME 16 ------------------------------
+head - body parts
+
+FRAME 17 ------------------------------
+the head the other one , `` how 's it go down there ? '' and the other one reply , `` - message
+ask - request
+
+FRAME 18 ------------------------------
+other - increment
+
+FRAME 19 ------------------------------
+one - cardinal numbers
+
+FRAME 20 ------------------------------
+`` how 's it - item 2
+go - compatibility
+
+FRAME 21 ------------------------------
+there - locative relation
+
+FRAME 22 ------------------------------
+other - increment
+
+FRAME 23 ------------------------------
+one - cardinal numbers
+reply - entity
+
+FRAME 24 ------------------------------
+reply - communication response
+
+FRAME 25 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: There were two cannibals who captured a man. They decided it would be fair if they started eating from opposite ends. After a few minutes, the one who started at the head asked the other one, "How's it going down there?" And the other one replies, "I'm having a ball!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+man - people
+
+FRAME 2 ------------------------------
+fish - hunting
+
+FRAME 3 ------------------------------
+a man a fish and he - ingestor
+eat - ingestion
+
+FRAME 4 ------------------------------
+day - calendric unit
+
+FRAME 5 ------------------------------
+fish - hunting
+
+FRAME 6 ------------------------------
+he - theme
+sit - being located
+
+FRAME 7 ------------------------------
+boat - vehicle
+
+FRAME 8 ------------------------------
+boat and - ingestor
+drink - ingestion
+
+FRAME 9 ------------------------------
+beer - food
+
+FRAME 10 ------------------------------
+day - calendric unit
+
+FRAME 11 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Give a man a fish and he will eat for a day. Teach him how to fish and he will sit in a boat and drink beer all day.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+the tofu - participant 2
+
+FRAME 2 ------------------------------
+the tofu - agent
+cross - body movement
+the road - body part
+
+FRAME 3 ------------------------------
+road - roadways
+
+FRAME 4 ------------------------------
+the road - trajector
+to - goal
+
+FRAME 5 ------------------------------
+prove - evidence
+
+FRAME 6 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Why did the tofu cross the road? To prove he wasn't chicken.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+man - people
+
+FRAME 2 ------------------------------
+a man - self mover
+walk - self motion
+into a bar and - source
+
+FRAME 3 ------------------------------
+bar - natural features
+
+FRAME 4 ------------------------------
+a bar and - theme
+sit - being located
+
+FRAME 5 ------------------------------
+he the bartender , `` can i have a cigarette ? '' the bartender reply , `` sure , the cigarette - message
+ask - request
+
+FRAME 6 ------------------------------
+the bartender , `` - entity
+can - capability
+
+FRAME 7 ------------------------------
+i have - possession
+
+FRAME 8 ------------------------------
+bartender - speaker
+reply - communication response
+
+FRAME 9 ------------------------------
+cigarette - use
+machine - gizmo
+
+FRAME 10 ------------------------------
+a cigarette ? '' the bartender reply , `` sure , the cigarette machine - theme
+over - distributed position
+
+FRAME 11 ------------------------------
+cigarette ? '' the bartender reply , `` sure , the cigarette machine - figure
+there - locative relation
+
+FRAME 12 ------------------------------
+he - self mover
+walk - self motion
+
+FRAME 13 ------------------------------
+machine - gizmo
+
+FRAME 14 ------------------------------
+he - individuals
+about - proportional quantity
+
+FRAME 15 ------------------------------
+order - bail decision
+
+FRAME 16 ------------------------------
+cigarette , the - descriptor
+machine - gizmo
+
+FRAME 17 ------------------------------
+the machine - author
+say - text creation
+`` that 's not very nice . '' he return to his bar stool without a cigarette and ask the - text
+
+FRAME 18 ------------------------------
+man - people
+
+FRAME 19 ------------------------------
+the man stool without a cigarette and ask the bartender for some peanuts . the bartender pass the man a bowl of - text
+say - text creation
+
+FRAME 20 ------------------------------
+the man - stimulus
+surprise - just found out
+
+FRAME 21 ------------------------------
+voice - expressing publicly
+
+FRAME 22 ------------------------------
+`` - gradable attribute
+that - degree
+
+FRAME 23 ------------------------------
+very - degree
+
+FRAME 24 ------------------------------
+`` oi , you bloody idiot . '' the man say with surprise in his voice , `` that 's - stimulus
+nice - stimulus focus
+
+FRAME 25 ------------------------------
+he - theme
+return - arriving
+
+FRAME 26 ------------------------------
+`` oi , you bloody idiot . '' the man say with surprise in his voice , `` that 's - message
+a cigarette and - medium
+ask - request
+the bartender - addressee
+
+FRAME 27 ------------------------------
+some - proportional quantity
+peanuts - individuals
+
+FRAME 28 ------------------------------
+some peanuts the bartender - donor
+pass - giving
+the man a bowl - theme
+
+FRAME 29 ------------------------------
+man - people
+
+FRAME 30 ------------------------------
+man - people
+
+FRAME 31 ------------------------------
+man - phenomenon
+hear - perception experience
+
+FRAME 32 ------------------------------
+one - cardinal numbers
+
+FRAME 33 ------------------------------
+peanuts - text
+speak - text creation
+
+FRAME 34 ------------------------------
+like - hedging
+
+FRAME 35 ------------------------------
+hair - body parts
+
+FRAME 36 ------------------------------
+man - people
+
+FRAME 37 ------------------------------
+the man and this peanut be come on to me . why 's this ? '' the bartender reply , `` oh - text
+say - text creation
+
+FRAME 38 ------------------------------
+what - degree
+go - compatibility
+
+FRAME 39 ------------------------------
+here - locative relation
+
+FRAME 40 ------------------------------
+cigarette - use
+machine - gizmo
+
+FRAME 41 ------------------------------
+your cigarette machine - experiencer
+insult - cause emotion
+
+FRAME 42 ------------------------------
+me and this peanut - theme
+come - arriving
+
+FRAME 43 ------------------------------
+bartender - topic
+reply - communication response
+
+FRAME 44 ------------------------------
+what 's go on here ? your cigarette machine be insult me and this peanut be come on to me - cause
+because - causation
+
+FRAME 45 ------------------------------
+machine - gizmo
+
+FRAME 46 ------------------------------
+order - bail decision
+
+FRAME 47 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: A man walks into a bar and sits down. He asks the bartender, "Can I have a cigarette?" The bartender replies, "Sure, the cigarette machine is over there." So he walks over to the machine and as he is about to order a cigarette, the machine suddenly says, "Oi, you bloody idiot." The man says with surprise in his voice, "That's not very nice." He returns to his bar stool without a cigarette and asks the bartender for some peanuts. The bartender passes the man a bowl of peanuts and the man hears one of the peanuts speak, "Ooh, I like your hair." The man says to the bartender, "Hey, what's going on here? Your cigarette machine is insulting me and this peanut is coming on to me. Why's this?" The bartender replies, "Oh, that's because the machine is out of order and the peanuts are complementary."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+call - referring by name
+a fake noodle - name
+
+FRAME 2 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: What do you call a fake noodle? An Impasta!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+fruit - food
+
+FRAME 2 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: If tomatoes are a fruit, isn't ketchup a smoothie?
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+tell - speak on topic
+
+FRAME 2 ------------------------------
+an egg - interlocutors
+joke - chatting
+
+FRAME 3 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Why can't you tell an egg a joke? Because it will crack up.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+
+FRAME 2 ------------------------------
+get - intentional deception
+
+FRAME 3 ------------------------------
+roof - architectural part
+
+FRAME 4 ------------------------------
+tell - speak on topic
+
+FRAME 5 ------------------------------
+food - food
+
+FRAME 6 ------------------------------
+house - containing
+
+FRAME 7 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: How do you get a blond on the roof? You tell her the food is on the house.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+
+FRAME 2 ------------------------------
+learn - education teaching
+
+FRAME 3 ------------------------------
+make - creating
+
+FRAME 4 ------------------------------
+sundae - aggregate property
+school - aggregate
+
+FRAME 5 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Where do you learn how to make ice cream? Sundae School
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+you know a clock - participant 2
+
+FRAME 2 ------------------------------
+know - certainty
+a clock - content
+
+FRAME 3 ------------------------------
+how do you know a clock - state of affairs
+still - continued state of affairs
+
+FRAME 4 ------------------------------
+hungry - biological urge
+
+FRAME 5 ------------------------------
+four - count
+second - calendric unit
+
+FRAME 6 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: How do you know a clock is still hungry? It goes back four seconds.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+: `` - owner
+want - possession
+
+FRAME 2 ------------------------------
+any - quantified mass
+
+FRAME 3 ------------------------------
+teddy - clothing
+
+FRAME 4 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Waiter: "Do you want any dessert?" Teddy Bear: "No Thanks. I'm Stuffed!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+get - intentional deception
+
+FRAME 2 ------------------------------
+milk - food
+
+FRAME 3 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: What do you get from a pampered cow? Spoiled milk.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+
+FRAME 2 ------------------------------
+make - creating
+kool-aid ? they - created entity
+
+FRAME 3 ------------------------------
+fit - suitability
+8 quarts of water - evaluee
+
+FRAME 4 ------------------------------
+water - natural features
+
+FRAME 5 ------------------------------
+n't fit 8 quarts of water - figure
+in - interior profile relation
+
+FRAME 6 ------------------------------
+tiny - size
+
+FRAME 7 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Why don't blondes like to make Kool-Aid? They can't fit 8 quarts of water in that tiny little packet.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+hear - perception experience
+
+FRAME 2 ------------------------------
+magic - ineffability
+
+FRAME 3 ------------------------------
+never - frequency
+
+FRAME 4 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Have you heard the story of the magic sandwich? Never mind, it's just a bunch of bologna.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+go - compatibility
+
+FRAME 2 ------------------------------
+dog - animals
+
+FRAME 3 ------------------------------
+hot dog - aggregate property
+stand - aggregate
+
+FRAME 4 ------------------------------
+i - theme
+snake - motion
+
+FRAME 5 ------------------------------
+i go to a hot dog stand with my pet snake . i - text
+say - text creation
+
+FRAME 6 ------------------------------
+may - calendric unit
+
+FRAME 7 ------------------------------
+may i - experiencer
+please - experiencer obj
+
+FRAME 8 ------------------------------
+may i - owner
+have - possession
+
+FRAME 9 ------------------------------
+dog - animals
+
+FRAME 10 ------------------------------
+snake - motion
+
+FRAME 11 ------------------------------
+the waitress - speaker
+reply - communication response
+
+FRAME 12 ------------------------------
+i - text
+say - text creation
+
+FRAME 13 ------------------------------
+`` my anaconda - owner
+want - possession
+
+FRAME 14 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: I went to a hot dog stand with my pet snake. I said," May I please have a hot dog for my snake?" The waitress replied, "I'm sorry, but we're all out of buns." I said, "My anaconda don't want none unless you've got buns, hun!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+you - perceiver passive
+hear - perception experience
+about the butcher who - phenomenon
+
+FRAME 2 ------------------------------
+the butcher - possessor
+back - body parts
+
+FRAME 3 ------------------------------
+the meat grinder ? he - deceiver
+get - intentional deception
+
+FRAME 4 ------------------------------
+behind - responsibility
+
+FRAME 5 ------------------------------
+his - object
+work - being operational
+
+FRAME 6 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Did you hear about the butcher who backed up into the meat grinder? He got a little behind in his work.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+farmer - people by vocation
+
+FRAME 2 ------------------------------
+a farmer - self mover
+walk - self motion
+with a prospective buyer - area
+
+FRAME 3 ------------------------------
+a farmer be walk with a prospective buyer - trajector event
+when - temporal collocation
+
+FRAME 4 ------------------------------
+they - patient
+see - condition symptom relation
+a beautiful pig - medical condition
+
+FRAME 5 ------------------------------
+beautiful - aesthetics
+pig - entity
+
+FRAME 6 ------------------------------
+yard - measure linear extent
+
+FRAME 7 ------------------------------
+it - owner
+have - possession
+
+FRAME 8 ------------------------------
+the buyer - addressee
+ask - request
+
+FRAME 9 ------------------------------
+farmer - people by vocation
+
+FRAME 10 ------------------------------
+farmer - trigger
+reply - communication response
+
+FRAME 11 ------------------------------
+`` pig - gradable attribute
+that - degree
+
+FRAME 12 ------------------------------
+`` that pig - cause
+so - causation
+wooden leg ? '' `` the pig be so smart it have a degree in horticulture and philosophy . '' - effect
+
+FRAME 13 ------------------------------
+`` that pig i - entity
+smart - speed description
+
+FRAME 14 ------------------------------
+`` that pig i it - event
+let - preventing or letting
+
+FRAME 15 ------------------------------
+it - driver
+drive - operate vehicle
+
+FRAME 16 ------------------------------
+kid - people by age
+
+FRAME 17 ------------------------------
+kid - aggregate property
+school - aggregate
+
+FRAME 18 ------------------------------
+great - usefulness
+
+FRAME 19 ------------------------------
+`` that pig be so smart , i let it drive the kid to school . '' `` great , smart it - effect
+but why the wooden leg ? '' `` the pig - cause
+so - causation
+
+FRAME 20 ------------------------------
+smart - speed description
+it - entity
+
+FRAME 21 ------------------------------
+smart it - owner
+have - possession
+
+FRAME 22 ------------------------------
+a degree - figure
+in - interior profile relation
+
+FRAME 23 ------------------------------
+amazing - stimulus focus
+
+FRAME 24 ------------------------------
+philosophy . '' `` amazing ! but why the bloody wooden leg ? '' `` - trajector event
+when - temporal collocation
+
+FRAME 25 ------------------------------
+you - owner
+have - possession
+
+FRAME 26 ------------------------------
+a pig that you - entity
+smart - speed description
+
+FRAME 27 ------------------------------
+you - participants
+do - sex
+
+FRAME 28 ------------------------------
+eat - ingestion
+
+FRAME 29 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: A farmer is walking with a prospective buyer when they see a beautiful pig in the yard, except it has a wooden leg. The buyer asks, "Why the wooden leg?" The farmer replies, "That pig is so smart, I let it drive the kids to school." "Great, but why the wooden leg?" "The pig is so smart it has a degree in horticulture and philosophy." "Amazing! But why the bloody wooden leg?" "Well when you have a pig that smart you don't eat it all at once!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+
+FRAME 2 ------------------------------
+make - creating
+an unk - created entity
+
+FRAME 3 ------------------------------
+you - agent
+push - attempt
+
+FRAME 4 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: How do you make an egg-roll? You push it!!!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+the grape - participant 2
+
+FRAME 2 ------------------------------
+the grape - text
+say - text creation
+
+FRAME 3 ------------------------------
+the grape say - landmark event
+when - temporal collocation
+
+FRAME 4 ------------------------------
+it - self mover
+step - self motion
+
+FRAME 5 ------------------------------
+out - sleep
+
+FRAME 6 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: What did the grape say when it was stepped on? Nothing, it just let out a little wine.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+you - perceiver passive
+hear - perception experience
+the joke about the butter ? i do not think i should tell you because you might spread it around - phenomenon
+
+FRAME 2 ------------------------------
+joke - chatting
+about the butter - interlocutor 2
+
+FRAME 3 ------------------------------
+the butter ? i - participants
+do - sex
+
+FRAME 4 ------------------------------
+did you hear the joke about the butter ? i - cognizer
+think - cogitation
+
+FRAME 5 ------------------------------
+did you hear the joke about the butter ? i do not think i - state of affairs
+should - desirable event
+
+FRAME 6 ------------------------------
+did you hear the joke about the butter ? i do not think i - speaker
+tell - speak on topic
+
+FRAME 7 ------------------------------
+did you hear the joke about the butter ? i do not think i - cause
+because - causation
+
+FRAME 8 ------------------------------
+you - exerter
+might - level of force exertion
+
+FRAME 9 ------------------------------
+you - item
+spread - expansion
+
+FRAME 10 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Did you hear the joke about the butter?I do not think I should tell you because you might spread it around...
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+disciple - item 2
+go - compatibility
+
+FRAME 2 ------------------------------
+master - expertise
+
+FRAME 3 ------------------------------
+say - text creation
+, `` i have serve you faithfully for ten year . now i have a wish : give me something to eat which will never end . '' his master say , `` here , have some chewing gum . - text
+
+FRAME 4 ------------------------------
+ten - cardinal numbers
+year - entity
+
+FRAME 5 ------------------------------
+ten - count
+year - calendric unit
+
+FRAME 6 ------------------------------
+a disciple go to his master and say , `` i have serve you faithfully for ten year . - trajector event
+now - temporal collocation
+
+FRAME 7 ------------------------------
+i have - possession
+
+FRAME 8 ------------------------------
+i - experiencer
+wish - desiring
+
+FRAME 9 ------------------------------
+a wish : - donor
+give - giving
+me something - recipient
+
+FRAME 10 ------------------------------
+eat - ingestion
+
+FRAME 11 ------------------------------
+i have a wish : give me something to eat which - event
+never - frequency
+
+FRAME 12 ------------------------------
+i have a wish : give me something to eat which - cause
+never - degree
+end - cause to end
+
+FRAME 13 ------------------------------
+his - knowledge
+master - expertise
+
+FRAME 14 ------------------------------
+his master - text
+say - text creation
+
+FRAME 15 ------------------------------
+`` here , have - possession
+
+FRAME 16 ------------------------------
+some - proportional quantity
+
+FRAME 17 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: A disciple went to his master and said, "I have served you faithfully for ten years. Now I have a wish: give me something to eat which will never end." His master said, "Here, have some chewing gum."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+just - manner
+buy - commerce buy
+
+FRAME 2 ------------------------------
+a cured ham ; i - cognizer
+wonder - cogitation
+
+FRAME 3 ------------------------------
+a cured ham ; i wonder what it - owner
+have - possession
+
+FRAME 4 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: I just bought a cured ham; I wonder what it had.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+do - sex
+you call a cow - participant 2
+
+FRAME 2 ------------------------------
+call - referring by name
+a cow - name
+
+FRAME 3 ------------------------------
+two - cardinal numbers
+
+FRAME 4 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: What do you call a cow with two legs? Lean beef.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+guy - item 1
+go - compatibility
+on an ocean cruise and he - item 2
+
+FRAME 2 ------------------------------
+ocean - natural features
+
+FRAME 3 ------------------------------
+cruise - operate vehicle
+and he - driver
+
+FRAME 4 ------------------------------
+he - speaker
+tell - speak on topic
+
+FRAME 5 ------------------------------
+doctor - appellations
+
+FRAME 6 ------------------------------
+he - experiencer
+worry - emotion active
+
+FRAME 7 ------------------------------
+get - intentional deception
+
+FRAME 8 ------------------------------
+doctor - appellations
+
+FRAME 9 ------------------------------
+the doctor - influence
+suggest - condition symptom relation
+, `` eat two pound of stewed tomato - medical condition
+
+FRAME 10 ------------------------------
+two - cardinal numbers
+
+FRAME 11 ------------------------------
+two - stuff
+pound - measure mass
+
+FRAME 12 ------------------------------
+you - donor
+leave - giving
+the dock - recipient
+
+FRAME 13 ------------------------------
+reply - communication response
+
+FRAME 14 ------------------------------
+`` - recipient
+will - giving
+
+FRAME 15 ------------------------------
+keep - activity ongoing
+
+FRAME 16 ------------------------------
+get - intentional deception
+
+FRAME 17 ------------------------------
+doctor - appellations
+
+FRAME 18 ------------------------------
+the doctor - text
+say - text creation
+
+FRAME 19 ------------------------------
+`` no , but it - expression
+look - facial expression
+really pretty in the water . '' - intended perceiver
+
+FRAME 20 ------------------------------
+yo - ingestor
+
+--------------------------------------------------------------------------------------
+
+Joke: What was Ludwig van Beethoven's favorite fruit? Ba-na-na-na!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+be so stupid she - ingestor
+eat - ingestion
+
+FRAME 2 ------------------------------
+food - food
+
+FRAME 3 ------------------------------
+stamp - body movement
+
+FRAME 4 ------------------------------
+i - occasion
+
+--------------------------------------------------------------------------------------
+
+Joke: A guy is going on an ocean cruise and he tells his doctor that he's worried about getting seasick. The doctor suggests, ''Eat two pounds of stewed tomatoes before you leave the dock.'' The guy replies, ''Will that keep me from getting sick, Doc?'' The doctor says, "No, but it'll look really pretty in the water.''
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+my wife i be go to make a bike out of spaghetti . she could n't believe it when i - topic
+
+FRAME 2 ------------------------------
+i i - partner 1
+wife - personal relationship
+
+FRAME 3 ------------------------------
+my wife i - item 1
+go - compatibility
+
+FRAME 4 ------------------------------
+my wife i - creator
+make - creating
+
+FRAME 5 ------------------------------
+bike - vehicle
+
+FRAME 6 ------------------------------
+she - possible event
+could - possibility
+
+FRAME 7 ------------------------------
+she - cognizer
+believe - certainty
+
+FRAME 8 ------------------------------
+when i - driver
+ride - operate vehicle
+pasta - vehicle
+
+FRAME 9 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: Yo momma is so stupid she ate her food stamps.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+at taco bell - place
+
+FRAME 2 ------------------------------
+the employee at taco bell - trajector event
+recently - temporal collocation
+
+FRAME 3 ------------------------------
+the employee at taco bell - fire
+start - catching fire
+
+FRAME 4 ------------------------------
+the employee at taco bell - wearer
+wear - wearing
+
+FRAME 5 ------------------------------
+the employee at taco bell recently start wear gloves when - agent
+prepare - activity prepare
+
+FRAME 6 ------------------------------
+food - food
+
+FRAME 7 ------------------------------
+the employee at taco bell recently start wear gloves when prepare the food . ever - medium
+wonder - cogitation
+
+FRAME 8 ------------------------------
+intention - purpose
+
+FRAME 9 ------------------------------
+protect - protecting
+
+FRAME 10 ------------------------------
+to protect their - donor
+hand - giving
+
+FRAME 11 ------------------------------
+food - food
+
+FRAME 12 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: I told my wife I was going to make a bike out of spaghetti. She couldn't believe it when I rode pasta.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+race - type
+
+FRAME 2 ------------------------------
+race - possessor
+car - vehicle
+
+FRAME 3 ------------------------------
+eat - ingestion
+for lunch ? fast food - ingestibles
+
+FRAME 4 ------------------------------
+lunch - ingestion
+
+FRAME 5 ------------------------------
+food - food
+
+FRAME 6 ------------------------------
+
+--------------------------------------------------------------------------------------
+
+Joke: The employees at Taco Bell recently started wearing gloves when preparing the food. Ever wonder if their intentions are to protect their hands from the food they're serving?
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+crazy - mental property
+
+FRAME 2 ------------------------------
+and - self mover
+walk - self motion
+along the side - area
+
+FRAME 3 ------------------------------
+side - part orientational
+
+FRAME 4 ------------------------------
+building - buildings
+
+FRAME 5 ------------------------------
+yo - variable
+
+--------------------------------------------------------------------------------------
+
+Joke: What's a race car's favorite thing to eat for lunch? Fast food!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+'s - variable
+poor - position on a scale
+
+FRAME 2 ------------------------------
+yo momma 's so poor , - trajector event
+when - temporal collocation
+
+FRAME 3 ------------------------------
+yo momma 's so poor , when i - speaker
+tell - speak on topic
+
+FRAME 4 ------------------------------
+last - ordinal numbers
+
+FRAME 5 ------------------------------
+the last supper , she - cognizer
+think - cogitation
+
+FRAME 6 ------------------------------
+the food stamp - food
+
+FRAME 7 ------------------------------
+the food stamp - impactor
+run - impact
+
+FRAME 8 ------------------------------
+i - entity
+
+--------------------------------------------------------------------------------------
+
+Joke: What is crazy and walks along the sides of buildings? A walnut.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+
+FRAME 2 ------------------------------
+local - political locales
+
+FRAME 3 ------------------------------
+fast - rate description
+
+FRAME 4 ------------------------------
+food - food
+
+FRAME 5 ------------------------------
+local fast food - descriptor
+joint - prison
+
+FRAME 6 ------------------------------
+i work at a local fast food joint . it crack me up a fat ass customer order a quadruple stacked cheeseburger , with extra sauce , a ton of extra - trajector event
+when - temporal collocation
+
+FRAME 7 ------------------------------
+order - bail decision
+
+FRAME 8 ------------------------------
+ton - quantified mass
+
+FRAME 9 ------------------------------
+large - size
+
+FRAME 10 ------------------------------
+and then - time
+order - bail decision
+
+FRAME 11 ------------------------------
+small - size
+
+FRAME 12 ------------------------------
+coke - intoxicants
+
+FRAME 13 ------------------------------
+three - entity
+
+--------------------------------------------------------------------------------------
+
+Joke: Yo momma's so poor, when I told her about the Last Supper, she thought the food stamps had run out.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+work - usefulness
+
+FRAME 2 ------------------------------
+build - building
+
+FRAME 3 ------------------------------
+house - containing
+
+FRAME 4 ------------------------------
+they - item 1
+go - compatibility
+
+FRAME 5 ------------------------------
+roof - architectural part
+
+FRAME 6 ------------------------------
+lunch - ingestion
+
+FRAME 7 ------------------------------
+the brunette - author
+say - text creation
+`` if i get one more tuna sandwich , i 'm go to jump off this roof and kill myself . the black haired one say `` if i get one more pickle and lettuce sandwich , i , too , be go to jump off this roof and kill myself . the blonde look at his sandwich and also declare , `` if i get one more peanut butter and jelly sandwich , i 'm go to jump off this roof and kill myself . '' the next day , they all get the same sandwiches and kill themselves . that night , their wife all meet up and mourn . `` if i have know that my husband - text
+
+FRAME 8 ------------------------------
+i - victim
+get - intentional deception
+
+FRAME 9 ------------------------------
+one - cardinal numbers
+
+FRAME 10 ------------------------------
+more - increment
+
+FRAME 11 ------------------------------
+go - compatibility
+
+FRAME 12 ------------------------------
+jump - sex
+
+FRAME 13 ------------------------------
+roof - architectural part
+
+FRAME 14 ------------------------------
+kill - process stop
+
+FRAME 15 ------------------------------
+one - cardinal numbers
+
+FRAME 16 ------------------------------
+say - text creation
+and lettuce sandwich , i , too , be go to jump off this roof and kill myself . the blonde look at his sandwich and also declare , `` if i get one more peanut butter and jelly sandwich , i 'm go to jump off this roof and kill myself . '' the next day , they all get the same sandwiches and kill themselves . that night , their wife all meet up and mourn . `` if i have know that my husband be go to kill himself over a sandwich , i would n't have - text
+
+FRAME 17 ------------------------------
+i - victim
+get - intentional deception
+
+FRAME 18 ------------------------------
+one - cardinal numbers
+
+FRAME 19 ------------------------------
+more - increment
+
+FRAME 20 ------------------------------
+and lettuce sandwich , i , too , - item 2
+go - compatibility
+
+FRAME 21 ------------------------------
+jump - sex
+
+FRAME 22 ------------------------------
+roof - architectural part
+
+FRAME 23 ------------------------------
+kill - process stop
+
+FRAME 24 ------------------------------
+blonde - expression
+look - facial expression
+
+FRAME 25 ------------------------------
+also - manner
+declare - statement
+
+FRAME 26 ------------------------------
+i - victim
+get - intentional deception
+
+FRAME 27 ------------------------------
+one - cardinal numbers
+
+FRAME 28 ------------------------------
+more - increment
+
+FRAME 29 ------------------------------
+go - compatibility
+
+FRAME 30 ------------------------------
+jump - sex
+
+FRAME 31 ------------------------------
+roof - architectural part
+
+FRAME 32 ------------------------------
+kill - process stop
+
+FRAME 33 ------------------------------
+next - relative time
+
+FRAME 34 ------------------------------
+next - relative time
+day - calendric unit
+
+FRAME 35 ------------------------------
+they all - deceiver
+get - intentional deception
+
+FRAME 36 ------------------------------
+same - identicality
+
+FRAME 37 ------------------------------
+kill - process stop
+
+FRAME 38 ------------------------------
+that - degree
+night - gradable attribute
+
+FRAME 39 ------------------------------
+night - calendric unit
+
+FRAME 40 ------------------------------
+that night all - partner 2
+wife - personal relationship
+
+FRAME 41 ------------------------------
+meet - meet specifications
+
+FRAME 42 ------------------------------
+if i have - possession
+
+FRAME 43 ------------------------------
+if i - content
+know - certainty
+
+FRAME 44 ------------------------------
+husband - frugality
+
+FRAME 45 ------------------------------
+go - compatibility
+
+FRAME 46 ------------------------------
+kill - process stop
+
+FRAME 47 ------------------------------
+himself - theme
+over - distributed position
+
+FRAME 48 ------------------------------
+a sandwich , i - owner
+have - possession
+
+FRAME 49 ------------------------------
+have - time
+give - giving
+it - recipient
+
+FRAME 50 ------------------------------
+cry - make noise
+
+FRAME 51 ------------------------------
+head - body parts
+
+FRAME 52 ------------------------------
+reply - communication response
+
+FRAME 53 ------------------------------
+both - quantified mass
+
+FRAME 54 ------------------------------
+they both - manner
+look - facial expression
+at the blonde . `` - intended perceiver
+
+FRAME 55 ------------------------------
+the blonde . `` - expression
+look - facial expression
+at me , he - intended perceiver
+
+FRAME 56 ------------------------------
+lunch - ingestion
+
+FRAME 57 ------------------------------
+two - cardinal numbers
+
+--------------------------------------------------------------------------------------
+
+Joke: I work at a local fast food joint. It cracks me up when a fat ass customer orders a quadruple stacked cheeseburger, with extra sauce, a ton of extras, extra large fries with extra sauce, and then orders a small diet coke.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+
+FRAME 2 ------------------------------
+two timers - entity
+old - age
+
+FRAME 3 ------------------------------
+two old timers - interlocutors
+talk - discussion
+
+FRAME 4 ------------------------------
+two old timers be talk - event
+after - time vector
+church one day - direction
+
+FRAME 5 ------------------------------
+church - buildings
+
+FRAME 6 ------------------------------
+one - relative time
+day - calendric unit
+
+FRAME 7 ------------------------------
+one - cardinal numbers
+
+FRAME 8 ------------------------------
+one - addressee
+ask - request
+the other , `` so tell me brother , what do you think of the soul food this morning ? - message
+
+FRAME 9 ------------------------------
+other - increment
+
+FRAME 10 ------------------------------
+the other , `` - speaker
+tell - speak on topic
+
+FRAME 11 ------------------------------
+me - type
+brother - appellations
+
+FRAME 12 ------------------------------
+brother , what you think of the soul food this morning - participant 2
+do - sex
+
+FRAME 13 ------------------------------
+think - cogitation
+of the soul food this morning ? '' the other reply , `` the food be excellent but the service - topic
+
+FRAME 14 ------------------------------
+food - food
+
+FRAME 15 ------------------------------
+soul food - relative time
+morning - calendric unit
+
+FRAME 16 ------------------------------
+other - increment
+
+FRAME 17 ------------------------------
+reply - communication response
+
+FRAME 18 ------------------------------
+food - food
+
+FRAME 19 ------------------------------
+the food - entity
+excellent - usefulness
+
+FRAME 20 ------------------------------
+service - public services
+
+FRAME 21 ------------------------------
+a - self mover
+
+--------------------------------------------------------------------------------------
+
+Joke: Three men are all working on building a house. They go up to the roof for lunch, and unwrapped their sandwiches. The Brunette says "if I get one more Tuna sandwich, I'm going to jump off this roof and kill myself. The black haired one says "if I get one more pickle and lettuce sandwich, I, too, am going to jump off this roof and kill myself. The blonde looks at his sandwich and also declares, "if I get one more peanut butter and jelly sandwich, I'm going to jump off this roof and kill myself." The next day, they all get the same sandwiches and kill themselves. That night, their wives all meet up and mourn. "If I had known that my husband was going to kill himself over a sandwich, I wouldn't have given it to him." The brunette cries. "Same," the raven head replies. They both look at the blonde. "Don't look at me, he packed his own lunch!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+walk - self motion
+
+FRAME 2 ------------------------------
+the barman - author
+say - text creation
+
+FRAME 3 ------------------------------
+food - food
+
+FRAME 4 ------------------------------
+here - locative relation
+
+FRAME 5 ------------------------------
+why - participant 2
+
+--------------------------------------------------------------------------------------
+
+Joke: Two old timers were talking after church one day and the one asks the other, "So tell me brother, what did you think of the soul food this morning?" The other replies, "The food was excellent but the service sucked!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+
+FRAME 2 ------------------------------
+fast - rate description
+food vendor - agent
+arrest - degree
+
+FRAME 3 ------------------------------
+food - food
+
+FRAME 4 ------------------------------
+the mexican fast food vendor - cause
+arrest - cause to end
+
+FRAME 5 ------------------------------
+he - agent
+plan - making arrangements
+
+FRAME 6 ------------------------------
+a - self mover
+
+--------------------------------------------------------------------------------------
+
+Joke: A sandwich walks into a bar. The barman says: "Sorry, we don't serve food in here."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+walk - self motion
+into a bar and asks - source
+
+FRAME 2 ------------------------------
+bar - natural features
+
+FRAME 3 ------------------------------
+drink - ingestion
+
+FRAME 4 ------------------------------
+the bartender - author
+say - text creation
+
+FRAME 5 ------------------------------
+food - food
+
+FRAME 6 ------------------------------
+what - participant 2
+
+--------------------------------------------------------------------------------------
+
+Joke: Why did was the Mexican fast food vendor arrested? He was planning a tacover.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+the nacho - participant 2
+
+FRAME 2 ------------------------------
+the nacho - text
+say - text creation
+
+FRAME 3 ------------------------------
+friend - personal relationship
+
+FRAME 4 ------------------------------
+
+--------------------------------------------------------------------------------------

@@ -1,0 +1,825 @@
+
+Joke: A science teacher tells his class, "Oxygen is a must for breathing and life. It was discovered in 1773." A blonde student responds, "Thank God I was born after 1773! Otherwise I would have died without it."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+teacher - education teaching
+
+FRAME 2 ------------------------------
+a science teacher - topic
+tell - speak on topic
+
+FRAME 3 ------------------------------
+class - aggregate
+
+FRAME 4 ------------------------------
+must - likelihood
+for breathing and life . it be discover in 1773 . '' a blonde student respond , `` thank god - hypothetical event
+
+FRAME 5 ------------------------------
+discover - becoming aware
+
+FRAME 6 ------------------------------
+student - education teaching
+
+FRAME 7 ------------------------------
+blonde student - medium
+respond - communication response
+
+FRAME 8 ------------------------------
+`` thank god i - theme
+bear - bringing
+
+FRAME 9 ------------------------------
+in 1773 . '' a blonde student respond , `` thank god i - event
+after - time vector
+
+FRAME 10 ------------------------------
+die - fire going out
+
+--------------------------------------------------------------------------------------
+
+Joke: How do astronomers organize a party? They planet.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+party - aggregate
+
+--------------------------------------------------------------------------------------
+
+Joke: Scientists have proven that there are two things in the air that have been known to cause women to get pregnant: their legs.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+scientists have - possession
+
+FRAME 2 ------------------------------
+scientists - support
+prove - evidence
+
+FRAME 3 ------------------------------
+there - locative relation
+
+FRAME 4 ------------------------------
+two - cardinal numbers
+
+FRAME 5 ------------------------------
+thing - entity
+
+FRAME 6 ------------------------------
+two thing - figure
+in - interior profile relation
+the air that - ground
+
+FRAME 7 ------------------------------
+the air that - owner
+have - possession
+
+FRAME 8 ------------------------------
+scientists have prove that there be two thing in the air that - content
+know - certainty
+
+FRAME 9 ------------------------------
+cause - condition symptom relation
+
+FRAME 10 ------------------------------
+woman - people
+
+FRAME 11 ------------------------------
+get - intentional deception
+
+--------------------------------------------------------------------------------------
+
+Joke: Why can't you trust an atom? Because they make up everything.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+they - created entity
+make - creating
+
+--------------------------------------------------------------------------------------
+
+Joke: I just read a book about Helium. It was so good that I can't put it down.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+i - reader
+read - reading activity
+
+FRAME 2 ------------------------------
+book - aggregate
+
+FRAME 3 ------------------------------
+i just read a book about helium . it - entity
+good - usefulness
+
+FRAME 4 ------------------------------
+i just read a book about helium . it be so good that i - message
+put - encoding
+
+--------------------------------------------------------------------------------------
+
+Joke: Why shouldn't you make fun of a paleontologist? Because you will get Jurasskicked.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+why - state of affairs
+should - desirable event
+
+FRAME 2 ------------------------------
+make - creating
+fun of a paleontologist - created entity
+
+FRAME 3 ------------------------------
+get - intentional deception
+unk - victim
+
+--------------------------------------------------------------------------------------
+
+Joke: What do clouds do when they become rich? They make it rain!
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+what - manner
+do - sex
+cloud - participants
+
+FRAME 2 ------------------------------
+cloud - participants
+do - sex
+
+FRAME 3 ------------------------------
+when - temporal collocation
+
+FRAME 4 ------------------------------
+cloud do when they - evaluee
+become - suitability
+
+FRAME 5 ------------------------------
+cloud do when they - stimulus
+rich - stimulus focus
+
+FRAME 6 ------------------------------
+rich ? they - cause
+make - creating
+
+FRAME 7 ------------------------------
+rain - precipitation
+
+--------------------------------------------------------------------------------------
+
+Joke: Want to hear a Potassium joke? K.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+want - possession
+
+FRAME 2 ------------------------------
+hear - perception experience
+
+FRAME 3 ------------------------------
+joke - chatting
+
+--------------------------------------------------------------------------------------
+
+Joke: Helium walks into a bar and asks for a drink. The bartender says, "Sorry, we don't serve noble gases here." Helium doesn't react.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+helium - self mover
+walk - self motion
+
+FRAME 2 ------------------------------
+bar - natural features
+
+FRAME 3 ------------------------------
+ask - request
+
+FRAME 4 ------------------------------
+drink - ingestion
+
+FRAME 5 ------------------------------
+the bartender - author
+say - text creation
+
+FRAME 6 ------------------------------
+n't serve noble - descriptor
+gas - substance
+
+--------------------------------------------------------------------------------------
+
+Joke: Molecule 1: I just lost an electron. Molecule 2: Are you sure? Molecule 1: Iâm positive.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+molecule 1 : i - owner
+lose - losing
+
+FRAME 2 ------------------------------
+sure - certainty
+
+--------------------------------------------------------------------------------------
+
+Joke: When Magnesium and Oxygen started dating I was like, "O MG!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+when - temporal collocation
+magnesium and oxygen start date i be like , `` o mg ! '' - trajector event
+
+FRAME 2 ------------------------------
+when magnesium and oxygen - fire
+start - catching fire
+
+FRAME 3 ------------------------------
+when magnesium and oxygen - attendees
+date - social event collective
+
+--------------------------------------------------------------------------------------
+
+Joke: Why are Helium, Curium, and Barium the medical elements? Because if you can't heal-ium or cure-ium, you bury-um.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+element - ingredients
+
+--------------------------------------------------------------------------------------
+
+Joke: Why are atoms Catholic? Because they have mass.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+they - leader
+mass - rite
+
+--------------------------------------------------------------------------------------
+
+Joke: Why do centipedes have 100 legs? So they can walk.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+why centipedes - participant 2
+do - sex
+
+FRAME 2 ------------------------------
+have - possession
+
+FRAME 3 ------------------------------
+they - entity
+can - capability
+
+FRAME 4 ------------------------------
+they - self mover
+walk - self motion
+
+--------------------------------------------------------------------------------------
+
+Joke: A photon walks into a hotel. The desk clerk says, "Welcome to our hotel. Can we help you with your luggage?" The photon says, "No thanks, I'm traveling light."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+a photon - self mover
+walk - self motion
+
+FRAME 2 ------------------------------
+hotel - buildings
+
+FRAME 3 ------------------------------
+the desk clerk - author
+say - text creation
+
+FRAME 4 ------------------------------
+our - descriptor
+hotel - buildings
+
+FRAME 5 ------------------------------
+help - assistance
+
+FRAME 6 ------------------------------
+the photon - author
+say - text creation
+
+FRAME 7 ------------------------------
+thanks - judgment direct address
+
+FRAME 8 ------------------------------
+travel - motion
+
+--------------------------------------------------------------------------------------
+
+Joke: I would make another chemistry joke, but they ARGON.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+i - creator
+make - creating
+
+FRAME 2 ------------------------------
+another - increment
+
+FRAME 3 ------------------------------
+joke - chatting
+
+--------------------------------------------------------------------------------------
+
+Joke: What did the 30 degree angle say to the 90 degree angle? "You think you're always right!"
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+what - manner
+do - sex
+the 30 degree angle - participant 2
+
+FRAME 2 ------------------------------
+angle - motion directional
+
+FRAME 3 ------------------------------
+the 30 degree angle - author
+say - text creation
+
+FRAME 4 ------------------------------
+angle - motion directional
+
+FRAME 5 ------------------------------
+the 90 degree angle ? `` you - cognizer
+think - cogitation
+
+FRAME 6 ------------------------------
+always - frequency
+
+--------------------------------------------------------------------------------------
+
+Joke: Newton, Pascal and Archimedes are playing hide and seek. Archimedes starts to count, Pascal hides in a bush, and Newton draws a square on the ground and steps into it. Archimedes finds Newton first, of course, but Newton replies, "Nope. One Newton on one square meter is equal to one Pascal."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+newton , pascal and archimedes - noisy event
+play - make noise
+
+FRAME 2 ------------------------------
+hide - hiding objects
+
+FRAME 3 ------------------------------
+seek - seeking to achieve
+
+FRAME 4 ------------------------------
+archimedes - fire
+start - catching fire
+
+FRAME 5 ------------------------------
+count - being in category
+
+FRAME 6 ------------------------------
+hide - hiding objects
+
+FRAME 7 ------------------------------
+in - interior profile relation
+
+FRAME 8 ------------------------------
+bush - biological area
+
+FRAME 9 ------------------------------
+draw - bearing arms
+
+FRAME 10 ------------------------------
+square - compatibility
+
+FRAME 11 ------------------------------
+ground - ground up
+
+FRAME 12 ------------------------------
+step - self motion
+
+FRAME 13 ------------------------------
+archimedes - perceiver
+find - locating
+
+FRAME 14 ------------------------------
+reply - communication response
+
+FRAME 15 ------------------------------
+one - cardinal numbers
+
+FRAME 16 ------------------------------
+one - cardinal numbers
+
+FRAME 17 ------------------------------
+square - compatibility
+
+FRAME 18 ------------------------------
+one square - count
+meter - measure linear extent
+
+FRAME 19 ------------------------------
+one - cardinal numbers
+
+--------------------------------------------------------------------------------------
+
+Joke: When you die, you should have your brain donated to science. I hear they're trying to come up with the perfect vacuum.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+when - temporal collocation
+you die , you should have your brain donate to science . i hear they 're try to come up - trajector event
+
+FRAME 2 ------------------------------
+die - fire going out
+
+FRAME 3 ------------------------------
+when you die , you - state of affairs
+should - desirable event
+
+FRAME 4 ------------------------------
+you - owner
+have - possession
+
+FRAME 5 ------------------------------
+donate - giving
+
+FRAME 6 ------------------------------
+science - craft
+
+FRAME 7 ------------------------------
+i - phenomenon
+hear - perception experience
+
+FRAME 8 ------------------------------
+they - agent
+try - attempt
+
+FRAME 9 ------------------------------
+come - arriving
+
+--------------------------------------------------------------------------------------
+
+Joke: What do you do with a sick scientist? Well if you can't helium and you can't curium then you might as well barium
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+what you do with a sick scientist - participant 2
+do - sex
+
+FRAME 2 ------------------------------
+do - sex
+
+FRAME 3 ------------------------------
+scientist - people by vocation
+
+FRAME 4 ------------------------------
+then - time
+you - exerter
+might - level of force exertion
+
+--------------------------------------------------------------------------------------
+
+Joke: Why did the chicken cross the mÃ¶bius strip? To get to the same side.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+why the chicken cross the unk strip - participant 2
+do - sex
+
+FRAME 2 ------------------------------
+chicken - manner
+cross - path shape
+
+FRAME 3 ------------------------------
+unk - source
+strip - emptying
+
+FRAME 4 ------------------------------
+the unk strip - landmark
+to - goal
+
+FRAME 5 ------------------------------
+the unk strip - deceiver
+get - intentional deception
+
+FRAME 6 ------------------------------
+same - identicality
+side - type
+
+FRAME 7 ------------------------------
+side - part orientational
+
+--------------------------------------------------------------------------------------
+
+Joke: Why shouldn't you take atoms seriously? Because they make up everything.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+why - state of affairs
+should - desirable event
+
+FRAME 2 ------------------------------
+take - sex
+atoms - participants
+
+FRAME 3 ------------------------------
+seriously - importance
+
+FRAME 4 ------------------------------
+they - created entity
+make - creating
+
+--------------------------------------------------------------------------------------
+
+Joke: Why can you never trust an atom? Because they make up everything
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+can - capability
+
+FRAME 2 ------------------------------
+never - frequency
+
+--------------------------------------------------------------------------------------
+
+Joke: Why do pirates like algebra? "Annex" marks the spot.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+why - participant 2
+do - sex
+pirate - participants
+
+FRAME 2 ------------------------------
+pirate - piracy
+like algebra ? `` annex - victim
+
+FRAME 3 ------------------------------
+pirate like algebra ? `` annex - indicator
+mark - sign
+
+FRAME 4 ------------------------------
+spot - becoming aware
+
+--------------------------------------------------------------------------------------
+
+Joke: Why are conspiracy theories are like moon landings? Because they're all fake.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+landing - architectural part
+
+--------------------------------------------------------------------------------------
+
+Joke: Two hydrogen atoms are at a party and bump into each other. The first one says, "Hey, grab that electron, it's mine!" "How do you know?" asks the second. "'Cause I'm positive!" the first replies.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+two - cardinal numbers
+hydrogen atoms - entity
+
+FRAME 2 ------------------------------
+party - aggregate
+
+FRAME 3 ------------------------------
+a party - impactor
+bump - impact
+
+FRAME 4 ------------------------------
+other - increment
+
+FRAME 5 ------------------------------
+first - first experience
+, grab that electron , it 's mine ! '' `` how do you know ? '' ask the second - experience
+
+FRAME 6 ------------------------------
+one - cardinal numbers
+
+FRAME 7 ------------------------------
+first one , `` hey , grab that electron , it 's mine ! '' `` how do you know ? '' - text
+say - text creation
+
+FRAME 8 ------------------------------
+mine - weapon
+
+FRAME 9 ------------------------------
+`` - participants
+do - sex
+
+FRAME 10 ------------------------------
+know - certainty
+
+FRAME 11 ------------------------------
+ask - request
+
+FRAME 12 ------------------------------
+second - calendric unit
+
+FRAME 13 ------------------------------
+first - first experience
+
+FRAME 14 ------------------------------
+reply - communication response
+
+--------------------------------------------------------------------------------------
+
+Joke: Photons have mass? I didn't know that they were Catholic.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+photons - leader
+mass - rite
+
+FRAME 2 ------------------------------
+photons have mass ? i - participants
+do - sex
+
+FRAME 3 ------------------------------
+photons have mass ? i - content
+know - certainty
+
+--------------------------------------------------------------------------------------
+
+Joke: Why is quantum mechanics is the original "original hipster"? It described the universe before it was cool.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+it - speaker
+describe - statement
+
+FRAME 2 ------------------------------
+cool - temperature
+
+--------------------------------------------------------------------------------------
+
+Joke: Two hydrogen atoms walk into a bar. The first says to the second, "I think I've lost an electron." The second replies, "Are you sure?" to which the first retorts, "Yes, I'm positive."
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+two - cardinal numbers
+hydrogen atoms - entity
+
+FRAME 2 ------------------------------
+two hydrogen atoms - self mover
+walk - self motion
+into a bar - source
+
+FRAME 3 ------------------------------
+two hydrogen atoms walk into a bar reply , `` are you sure ? '' to which the first retorts , `` yes , i 'm positive - experience
+first - first experience
+
+FRAME 4 ------------------------------
+the first - text
+say - text creation
+
+FRAME 5 ------------------------------
+second - calendric unit
+
+FRAME 6 ------------------------------
+the second , `` i - cognizer
+think - cogitation
+i 've lose an electron . '' the second reply , `` are you sure ? '' to which the - medium
+
+FRAME 7 ------------------------------
+i - owner
+lose - losing
+
+FRAME 8 ------------------------------
+second - calendric unit
+reply - whole
+
+FRAME 9 ------------------------------
+reply - communication response
+
+FRAME 10 ------------------------------
+sure - certainty
+
+FRAME 11 ------------------------------
+first - first experience
+retorts - experience
+
+--------------------------------------------------------------------------------------
+
+Joke: Do you want to know how often I say element jokes? Periodically.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+want - possession
+
+FRAME 2 ------------------------------
+know - certainty
+
+FRAME 3 ------------------------------
+often - frequency
+i - event
+
+FRAME 4 ------------------------------
+i - text
+say - text creation
+
+FRAME 5 ------------------------------
+joke - chatting
+
+--------------------------------------------------------------------------------------
+
+Joke: Three doctors are out geese-hunting. A gaggle flies over and the oncologist raises and then lowers his gun. "I better conduct an MRI first to determine if those were really geese." Some more geese fly by & the endocrinologist raises his gun and then lowers it. "I'll need some bloodwork to conduct an A1C and determine what those birds were first." Some more geese fly over. The trauma doc raises his shotgun and blows them out of the sky. "What were those things, anyway?" he asks.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+three - type
+doctor - appellations
+
+FRAME 2 ------------------------------
+a gaggle - driver
+fly - operate vehicle
+over and the oncologist - goal
+
+FRAME 3 ------------------------------
+the oncologist - cause
+raise - cause change of position on a scale
+
+FRAME 4 ------------------------------
+then - degree
+lower - change position on a scale
+his gun - item
+
+FRAME 5 ------------------------------
+gun - weapon
+
+FRAME 6 ------------------------------
+`` i conduct an mri first to determine if those be really geese . '' some more geese fly by & the - required situation
+better - required event
+
+FRAME 7 ------------------------------
+`` i - agent
+conduct - conduct
+
+FRAME 8 ------------------------------
+an mri - cognizer
+determine - deciding
+
+FRAME 9 ------------------------------
+some - proportional quantity
+more geese fly - mass
+
+FRAME 10 ------------------------------
+fly - operate vehicle
+
+FRAME 11 ------------------------------
+the endocrinologist - cause
+raise - cause change of position on a scale
+
+FRAME 12 ------------------------------
+gun - weapon
+
+FRAME 13 ------------------------------
+lower - change position on a scale
+
+FRAME 14 ------------------------------
+need - needing
+
+FRAME 15 ------------------------------
+some - proportional quantity
+bloodwork - individuals
+
+FRAME 16 ------------------------------
+conduct - conduct
+
+FRAME 17 ------------------------------
+an a1c and - manner
+determine - deciding
+
+FRAME 18 ------------------------------
+an a1c and determine what those bird - experience
+first - first experience
+
+FRAME 19 ------------------------------
+some - proportional quantity
+
+FRAME 20 ------------------------------
+fly - operate vehicle
+
+FRAME 21 ------------------------------
+raise - cause change of position on a scale
+
+FRAME 22 ------------------------------
+blow - breathing
+them - air
+
+FRAME 23 ------------------------------
+he - addressee
+ask - request
+
+--------------------------------------------------------------------------------------
+
+Joke: I used to know a lot of science jokes, but now they argon.
+--------------------------------------------------------------------------------------
+
+FRAME 1 ------------------------------
+i - resource
+use - using resource
+
+FRAME 2 ------------------------------
+i - cognizer
+know - certainty
+
+FRAME 3 ------------------------------
+lot - destiny
+
+FRAME 4 ------------------------------
+joke - chatting
+
+--------------------------------------------------------------------------------------

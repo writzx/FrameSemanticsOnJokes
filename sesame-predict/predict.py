@@ -77,20 +77,15 @@ def call_sesame(command, model, file):
                 print(output.strip())
             break
 
+if __name__ == "__main__":
+    with open(resultfilename, 'w+') as writer:
+        with open(filename, 'r') as inf:
+            for i, line_raw in enumerate(inf):
+                line = line_raw.strip()
+                with open(tempfilename, 'w+') as outf:
+                    outf.write(line)
+                call_sesame("targetid", targetid_model, tempfilename)
+                call_sesame("frameid", frameid_model, targetid_model_filename)
+                call_sesame("argid", argid_model, frameid_model_filename)
 
-
-with open(resultfilename, 'w+') as writer:
-    with open(filename, 'r') as inf:
-        for i, line_raw in enumerate(inf):
-            line = line_raw.strip()
-            with open(tempfilename, 'w+') as outf:
-                outf.write(line)
-            call_sesame("targetid", targetid_model, tempfilename)
-            call_sesame("frameid", frameid_model, targetid_model_filename)
-            call_sesame("argid", argid_model, frameid_model_filename)
-
-            write_results(writer, i)
-
-# call_sesame("targetid", frameid_adam_model, targetid_model_filename)
-# call_sesame("targetid", targetid_model, frameid_adam_model_filename)
-
+                write_results(writer, i)
